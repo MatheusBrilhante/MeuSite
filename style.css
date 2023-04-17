@@ -1,0 +1,4 @@
+nav{background-color: #d4d3d3;color: rgb(0, 0, 0);margin: auto;padding-top: 8px;margin-left: -9px;margin-top: -8px;min-width: 320px;max-width: 1400px;margin-right: -8px;}
+.nav1{text-align: center;margin-top: -45px;padding-bottom: 13px;font-size: 25px;}
+.nav1 > a {padding: 10px;color: rgba(0, 0, 0, 0.856);}
+main{background-color: rgb(167, 94, 94);}
