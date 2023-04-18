@@ -1,5 +1,12 @@
+.h1header{font-size: 17px;}
 nav{background-color: #d4d3d3;color: rgb(0, 0, 0);margin: auto;padding-top: 8px;margin-left: -9px;margin-top: -8px;min-width: 320px;max-width: 1400px;margin-right: -8px;}
 .nav1{text-align: center;margin-top: -45px;padding-bottom: 13px;font-size: 25px;}
 .nav1 > a {padding: 10px;color: rgba(0, 0, 0, 0.856);}
-.fotoperfil{background-color:#64646483;width:600px ;border-radius: 50px;}
-.fotoperfil > img {padding-right: 20px;}
+.fotoperfil{background-color: #1f376a;border-radius: 262px;margin-left: 91px;width: 350px;height: 353px;}
+.fotoperfil > img {padding-right: 20px;border-radius:100px;display: block;margin: auto;border-bottom-right-radius: 226px;
+border-bottom-left-radius: 127px;margin-left: 25px;}
+.banner1{background-color:#3b5998;width: 600px;height: 534px;}
+.mainh1{font-size: 40px;text-align: center;}
+.mainh2{font-size: 30px;text-align: center;}
+.banner2{background-color: #bebbbbfb;width: 496px;height: 534px;display: block;margin-left: 600px;margin-top: -547px;}
+.a1{font-size: 15px;text-align: center;}
