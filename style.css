@@ -1,12 +1,25 @@
-.h1header{font-size: 17px;}
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@font-face {
+    font-family:'Android';
+    src: url('fonte/droid.otf') format('opentype'); font-weight: normal;}
+
+:root{--fonte-padrao:'Times New Roman','Serif','Helvetica','cursive';
+    --fonte-android:'Android','cursive';
+    --fonte-destaque:'Bebas Neue', 'cursive';}    
+
+.h1header{font-size: 17px;color: #0e214b;font-family:var();margin-left: 20px;font-weight: bold;}
 nav{background-color: #d4d3d3;color: rgb(0, 0, 0);margin: auto;padding-top: 8px;margin-left: -9px;margin-top: -8px;min-width: 320px;max-width: 1400px;margin-right: -8px;}
-.nav1{text-align: center;margin-top: -45px;padding-bottom: 13px;font-size: 25px;}
-.nav1 > a {padding: 10px;color: rgba(0, 0, 0, 0.856);}
+.nav1{text-align: center;margin-top: -45px;padding-bottom: 13px;font-size: 20px;}
+.nav1 > a {padding: 10px;color: #0e214b;font-weight: bold;font-family: var(--fonte-android);}
 .fotoperfil{background-color: #1f376a;border-radius: 262px;margin-left: 91px;width: 350px;height: 353px;}
 .fotoperfil > img {padding-right: 20px;border-radius:100px;display: block;margin: auto;border-bottom-right-radius: 226px;
 border-bottom-left-radius: 127px;margin-left: 25px;}
-.banner1{background-color:#3b5998;width: 600px;height: 534px;}
 .mainh1{font-size: 40px;text-align: center;}
 .mainh2{font-size: 30px;text-align: center;}
+body{background-color: #5267add2;width: 1349px;height: 1500px;margin: auto;margin-left: -8px;}
+.banner1{background-color:#3b5998;width: 600px;height: 534px;}
 .banner2{background-color: #bebbbbfb;width: 496px;height: 534px;display: block;margin-left: 600px;margin-top: -547px;}
 .a1{font-size: 15px;text-align: center;}
+main{min-width: 800px;max-width: 1350px;margin-left:-8px;margin: auto;}
+.center1{margin: auto;margin-left: 115px;}
