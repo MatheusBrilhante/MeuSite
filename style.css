@@ -8,18 +8,21 @@
     --fonte-android:'Android','cursive';
     --fonte-destaque:'Bebas Neue', 'cursive';}    
 
-.h1header{font-size: 17px;color: #0e214b;font-family:var();margin-left: 20px;font-weight: bold;}
-nav{background-color: #d4d3d3;color: rgb(0, 0, 0);margin: auto;padding-top: 8px;margin-left: -9px;margin-top: -8px;min-width: 320px;max-width: 1400px;margin-right: -8px;}
-.nav1{text-align: center;margin-top: -45px;padding-bottom: 13px;font-size: 20px;}
-.nav1 > a {padding: 10px;color: #0e214b;font-weight: bold;font-family: var(--fonte-android);}
+.h1header{font-size: 17px;color: #0e214b;font-family:var(--fonte-destaque);margin-left: 20px;}
+nav{background-color: #b6b2b2fb;color: rgb(0, 0, 0);margin: auto;padding-top: 30px;margin-left: -9px;margin-top: -8px;min-width: 320px;max-width: 1400px;margin-right: -8px;height: 36px;}
+.nav1{text-align: center;margin-top: -45px;padding-bottom: 13px;font-size: 20px;height: 34px}
+.nav1 > a {padding: 5px;color: #0e214b;font-weight: bold;font-family: var(--fonte-destaque);margin-top: 15px;}
+.nav1 > a:hover {background-color: #4869b3c0;border-radius: 5px;}
 .fotoperfil{background-color: #1f376a;border-radius: 262px;margin-left: 91px;width: 350px;height: 353px;}
 .fotoperfil > img {padding-right: 20px;border-radius:100px;display: block;margin: auto;border-bottom-right-radius: 226px;
-border-bottom-left-radius: 127px;margin-left: 25px;}
+border-bottom-left-radius: 127px;margin-left: 34px;}
 .mainh1{font-size: 40px;text-align: center;}
 .mainh2{font-size: 30px;text-align: center;}
+.mainh3{text-align: center;}
 body{background-color: #5267add2;width: 1349px;height: 1500px;margin: auto;margin-left: -8px;}
-.banner1{background-color:#3b5998;width: 600px;height: 534px;}
-.banner2{background-color: #bebbbbfb;width: 496px;height: 534px;display: block;margin-left: 600px;margin-top: -547px;}
+.banner1{background-color:#3b5998;width: 600px;height: 535px;}
+.banner2{background-color: #f1f1f1;width: 496px;height: 535px;display: block;margin-left: 600px;margin-top: -547px;}
+.banner3{background-color: #f1f1f1;width: 1096px;height: 400px;margin-left: 115px;margin-top: -22px;}
 .a1{font-size: 15px;text-align: center;}
 main{min-width: 800px;max-width: 1350px;margin-left:-8px;margin: auto;}
 .center1{margin: auto;margin-left: 115px;}
