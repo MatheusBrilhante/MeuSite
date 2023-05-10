@@ -58,7 +58,7 @@ button:hover{transform: scale(1.2);}
 .sobre2{max-width: 685px;height: 530px;background-color: #11111162;border-radius: 10px;margin-left: 612px;
 margin-top: -2000px;}
 .banner4{font-family: 'Open Sans', sans-serif;font-size: 30px;color: #ffffff;text-align: center;text-decoration: underline #00e6fd;font-weight: bold;padding-top: 38px;}
-article{background-color: #fffffff1;max-width: 1381px;;display: block;height: 700px;margin-left: -10px;margin-right: -8px;margin-top: 8px;}
+article{background-color: #11111162;max-width: 1294px;display: block;height: 700px;margin-right: -8px;margin-top: 8px;border-radius: 5px;}
 .pro1{font-family: 'Open Sans', sans-serif;font-size: 30px;color: black;padding-top: 25px;text-align: center;}
 .text{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;}
 .text1{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;margin-top: -25px;}
@@ -81,4 +81,11 @@ article{background-color: #fffffff1;max-width: 1381px;;display: block;height: 70
 .hob1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: center;margin-top: -86px;margin-left: -197px;}
 .hob2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;font-size: 13px;margin-left: 143px;margin-top: -11px;}
 .marg1{margin-top: -10px;}
-.pro1{}
+.pro2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;font-size: 30px;padding-top: 4px;}
+.title1{margin-bottom: -23px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;max-width: 650px;text-indent: 30px;}
+.para1{margin-top: -184px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
+.para2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
+.proban{margin-left: 26px;margin-top: 62px;}
+.move{margin-left: 80px;}
+.rep1{margin-top: 30px;}
+.android1{margin: auto;display: block;margin-left: 700px;}
