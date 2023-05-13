@@ -58,7 +58,7 @@ button:hover{transform: scale(1.2);}
 .sobre2{max-width: 685px;height: 530px;background-color: #11111162;border-radius: 10px;margin-left: 612px;
 margin-top: -2000px;}
 .banner4{font-family: 'Open Sans', sans-serif;font-size: 30px;color: #ffffff;text-align: center;text-decoration: underline #00e6fd;font-weight: bold;padding-top: 38px;}
-article{background-color: #11111162;max-width: 1294px;display: block;height: 1100px;margin-right: -8px;margin-top: 8px;border-radius: 5px;}
+article{margin-left: -2px;background-color: #11111162;max-width: 1294px;display: block;height: 900px;margin-right: -8px;margin-top: 8px;border-radius: 5px;}
 .pro1{font-family: 'Open Sans', sans-serif;font-size: 30px;color: black;padding-top: 25px;text-align: center;}
 .text{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;}
 .text1{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;margin-top: -25px;}
@@ -69,16 +69,16 @@ article{background-color: #11111162;max-width: 1294px;display: block;height: 110
 .tsefoto{margin-top: 23px;padding-right: 50px;margin-left: 24px;}
 .aprendiz{color: #ffffff;text-align:center;font-weight: bold;margin-left: -152px;margin-top: -63px;}
 .aprendiz1{margin-top: -15px;color: #ffffff;font-weight: bold;margin-left: 145px;font-size: 13px;}
-.banexp1{margin-top: 145px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #080808c0;border-radius: 10px;}
-.banexp2{margin-top: 25px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #080808c0;border-radius: 10px;}
+.banexp1{margin-top: 52px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #0808085e;border-radius: 10px;}
+.banexp2{margin-top: 17px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #0808085e;border-radius: 10px;}
 .exp2{color: #ffffff;font-weight: bold;font-family: 'Open Sans', sans-serif;text-align: center;margin-left: -95px;}
 .novacapfoto{margin-left: 14px;margin-top: -26px;}
 .novacap1{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-top: -73px;margin-left: -157px;}
 .novacap2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;font-size: 13px;margin-left: 143px;margin-top: -13px;}
-.banexp3{margin-top: 27px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #080808c0;border-radius: 10px;}
+.banexp3{margin-top: 124px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #0808085e;border-radius: 10px;}
 .hob{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-left: 55px;}
 .hobfoto{margin-top: -37px;margin-left: 13px;}
-.hob1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: center;margin-top: -86px;margin-left: -197px;}
+.hob1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: center;margin-top: -86px;margin-left: -83px;}
 .hob2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;font-size: 13px;margin-left: 143px;margin-top: -11px;}
 .marg1{margin-top: -10px;}
 .pro2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;font-size: 30px;padding-top: 4px;}
@@ -97,3 +97,6 @@ article{background-color: #11111162;max-width: 1294px;display: block;height: 110
 .p3{margin-left: 608px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
 .proban1{margin-top: -10px;}
 .move1{margin-left: 640px;}
+article button{color: #00e6fd;margin-left: 100px;font-size: 20px;background-color:#11111100 ;transition: 0.5s;font-family: 'Open Sans', sans-serif;font-weight: bold;color: #ffffff;border: 1px solid #00e6fd;}
+article img{transition: 0.5s;}
+article img:hover{transform: scale(1.1);}
