@@ -9,10 +9,10 @@
     --fonte-android:'Android','cursive';
     --fonte-destaque:'Bebas Neue', 'cursive';}    
 
-.h1header{font-size: 33px;color: #ffffff;;font-family: 'Open Sans', sans-serif; margin-left: 130px;margin-top: -5px;text-decoration: underline #00e6fd;}
+.h1header{font-size: 25px;color: #ffffff;;font-family: 'Open Sans', sans-serif; margin-left: 130px;margin-top: -5px;text-decoration: underline #00e6fd;}
 header{background-color: #111111e8;color: rgb(0, 0, 0);margin: auto;padding-top: 30px;margin-left: -9px;margin-top: -8px;min-width: 320px;max-width: 1400px;margin-right: -8px;height: 36px;}
-.nav1{transition: 0.5s;font-size: 30px;text-align: center;color: #ffffff;margin-top: -61px;padding-bottom: 13px;font-size: 20px;height: 34px;font-family: 'Open Sans', sans-serif;margin-left: 350px;}
-.nav1 > a {transform: scale(1.1);padding: 5px;color: #ffffff;font-weight: bold;font-family: 'Open Sans', sans-serif;margin-top: 15px;transition-duration: .5s;text-decoration: none;}
+.nav1{transition: 0.5s;text-align: center;color: #ffffff;margin-top: -61px;padding-bottom: 13px;font-size: 25px;height: 34px;font-family: 'Open Sans', sans-serif;margin-left: 350px;}
+.nav1 > a {transform: scale(1.1);padding: 20px;color: #ffffff;font-weight: bold;font-family: 'Open Sans', sans-serif;margin-top: 15px;transition-duration: .5s;text-decoration: none;}
 .nav1 > a:hover {transform: scale(1.1);background-color: #1111116c;border-radius: 5px;text-decoration: underline #00e6fd;}
 nav a {transition: 0.5s;}
 nav a:hover{transform: scale(1.1);}
@@ -25,7 +25,7 @@ nav a:hover{transform: scale(1.1);}
 .mainh4 :hover{transform: scale(1.3);}
 .banner1{background-color:#111111e8;max-width: 1381px;height: 550px;margin: auto;margin-left: -40px;padding-right: 10px;margin-right: -8px;}
 .banner2{background-color: #f1f1f1;max-width: 550px;min-width:320px;display: block;height: 535px;margin-left: 560px;margin-top: -552px;}
-.banner3{background-color:#111111e8;max-width: 1381px;height: 2000px;margin: auto;margin-left: -54px;padding-right: 10px;margin-right: -8px;margin-top: -25px;}
+.banner3{background-color:#111111e8;max-width: 1381px;height: 2000px;margin: auto;margin-left: -42px;padding-right: 10px;margin-right: -8px;margin-top: -25px;}
 .redes1{padding: 10px;margin: auto;padding-left: 400px;text-align: center;padding-top: 60px;}
 .a1{font-family: 'Open Sans', sans-serif;font-size: 20px;color: #042c83;;padding-top: 20px;text-shadow: 0px 0px 1px black;}
 main article p {font-size: 20px;font-weight: bold;}
@@ -51,14 +51,14 @@ main a:hover{text-decoration: underline #00e6fd;}
 .project1{text-align: center;margin-left: 400px;padding-top: 20px;}
 .redes1 img{transition: 0.5s;}
 .redes1  img:hover {transform: scale(1.3);}
-.sobre1{max-width: 598px;height: 530px;background-color: #11111162;border-radius: 10px;margin-left: 52px;text-align: center;}
+.sobre1{max-width: 613px;height: 530px;background-color: #11111162;border-radius: 10px;margin-left: 54px;text-align: center;}
 button{transition: 0.5s;}
 button:hover{transform: scale(1.2);}
 .sobremimh1{text-decoration: underline #00e6fd;font-family: 'Open Sans', sans-serif;font-size: 30px;color: #ffffff;padding-top: 38px;text-align: center;}
-.sobre2{max-width: 685px;height: 530px;background-color: #11111162;border-radius: 10px;margin-left: 612px;
+.sobre2{max-width: 685px;height: 530px;background-color: #11111162;border-radius: 10px;margin-left: 580px;
 margin-top: -2000px;}
 .banner4{font-family: 'Open Sans', sans-serif;font-size: 30px;color: #ffffff;text-align: center;text-decoration: underline #00e6fd;font-weight: bold;padding-top: 38px;}
-article{margin-left: -2px;background-color: #11111162;max-width: 1294px;display: block;height: 900px;margin-right: -8px;margin-top: 8px;border-radius: 5px;}
+article{margin:auto;margin-left: 14px;background-color: #11111162;max-width: 1303px;display: block;height: 900px;margin-right: -8px;margin-top: 8px;border-radius: 5px;}
 .pro1{font-family: 'Open Sans', sans-serif;font-size: 30px;color: black;padding-top: 25px;text-align: center;}
 .text{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;}
 .text1{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;margin-top: -25px;}
@@ -69,18 +69,18 @@ article{margin-left: -2px;background-color: #11111162;max-width: 1294px;display:
 .tsefoto{margin-top: 23px;padding-right: 50px;margin-left: 24px;}
 .aprendiz{color: #ffffff;text-align:center;font-weight: bold;margin-left: -152px;margin-top: -63px;}
 .aprendiz1{margin-top: -15px;color: #ffffff;font-weight: bold;margin-left: 145px;font-size: 13px;}
-.banexp1{margin-top: 52px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #0808085e;border-radius: 10px;}
+.banexp1{margin-top: 28px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 117px;background-color: #0808085e;border-radius: 10px;}
 .banexp2{margin-top: 17px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #0808085e;border-radius: 10px;}
 .exp2{color: #ffffff;font-weight: bold;font-family: 'Open Sans', sans-serif;text-align: center;margin-left: -95px;}
 .novacapfoto{margin-left: 14px;margin-top: -26px;}
 .novacap1{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-top: -73px;margin-left: -157px;}
 .novacap2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;font-size: 13px;margin-left: 143px;margin-top: -13px;}
-.banexp3{margin-top: 124px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #0808085e;border-radius: 10px;}
+.banexp3{margin-top: 124px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 129px;background-color: #0808085e;border-radius: 10px;}
 .hob{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-left: 55px;}
 .hobfoto{margin-top: -37px;margin-left: 13px;}
 .hob1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: center;margin-top: -86px;margin-left: -83px;}
 .hob2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;font-size: 13px;margin-left: 143px;margin-top: -11px;}
-.marg1{margin-top: -10px;}
+.marg1{margin-top: -18px;margin-left: 56px;}
 .pro2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;font-size: 30px;padding-top: 4px;}
 .title1{margin-bottom: -23px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;max-width: 650px;text-indent: 30px;}
 .para1{margin-top: -184px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
@@ -100,3 +100,4 @@ article{margin-left: -2px;background-color: #11111162;max-width: 1294px;display:
 article button{color: #00e6fd;margin-left: 100px;font-size: 20px;background-color:#11111100 ;transition: 0.5s;font-family: 'Open Sans', sans-serif;font-weight: bold;color: #ffffff;border: 1px solid #00e6fd;}
 article img{transition: 0.5s;}
 article img:hover{transform: scale(1.1);}
+aside{}
