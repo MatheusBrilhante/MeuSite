@@ -19,7 +19,8 @@ nav a:hover{transform: scale(1.1);}
 .fotoperfil{margin: auto;margin-left: 80px;border-radius: 100px;padding-top: 72px;}
 .mainh{margin-top: 37px;margin: auto;}
 .mainh1{font-family: 'Open Sans', sans-serif;font-size: 40px;text-align: center; margin-top: -383px;margin-left: 400px;color: #ffffff;font-weight: bold;}
-.mainh2{font-family: 'Open Sans', sans-serif;;font-size: 30px;text-align: center;margin-left: 400px;color: #ffffff;}
+.mainh2{font-family: 'Open Sans', sans-serif;font-size: 30px;text-align: center;margin-left: 400px;color: #ffffff;}
+.ling{font-family: 'Open Sans', sans-serif;font-size: 20px;text-align: center;color: #ffffff;margin-left: 400px;}
 .mainh3{text-align: center;font-size: 40px;font-family: 'Open Sans', sans-serif;padding-top: 38px;text-decoration: underline #00e6fd;font-weight: bold;margin: auto;}
 .mainh4{transition: 0.5s;font-family: 'Open Sans', sans-serif;font-size: 25px;background-color: #e5e6e900;font-weight: bold;color: #ffffff;border: 1px solid #00e6fd;}
 .mainh4 :hover{transform: scale(1.3);}
@@ -65,21 +66,21 @@ article{margin:auto;margin-left: 14px;background-color: #11111162;max-width: 130
 .text2{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;margin-top: -25px;text-indent: 30px;}
 .text3{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;margin-top: -25px;}
 .m1{padding-bottom: 30px;}
-.exp1{margin-left: 49px;font-family: 'Open Sans', sans-serif;color: #ffffff;text-align: center;margin-top: -105px;margin-bottom: -4px;}
-.tsefoto{margin-top: 23px;padding-right: 50px;margin-left: 24px;}
-.aprendiz{color: #ffffff;text-align:center;font-weight: bold;margin-left: -152px;margin-top: -63px;}
-.aprendiz1{margin-top: -15px;color: #ffffff;font-weight: bold;margin-left: 145px;font-size: 13px;}
+.exp1{margin-left: 140px;font-family: 'Open Sans', sans-serif;color: #ffffff;text-align: center;margin-top: -105px;margin-bottom: -4px;text-align: justify;padding-top: 15px;}
+.tsefoto{margin-top: -0px;padding-right: 50px;margin-left: 15px;}
+.aprendiz{color: #ffffff;text-align:center;font-weight: bold;margin-left: 138px;margin-top: -75px;text-align: justify;}
+.aprendiz1{margin-top: -15px;color: #ffffff;font-weight: bold;margin-left: 138px;font-size: 13px;text-align: center;text-align: justify;}
 .banexp1{margin-top: 28px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 117px;background-color: #0808085e;border-radius: 10px;}
 .banexp2{margin-top: 17px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 111px;background-color: #0808085e;border-radius: 10px;}
-.exp2{color: #ffffff;font-weight: bold;font-family: 'Open Sans', sans-serif;text-align: center;margin-left: -95px;}
-.novacapfoto{margin-left: 14px;margin-top: -26px;}
-.novacap1{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-top: -73px;margin-left: -157px;}
-.novacap2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;font-size: 13px;margin-left: 143px;margin-top: -13px;}
-.banexp3{margin-top: 124px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 129px;background-color: #0808085e;border-radius: 10px;}
-.hob{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-left: 55px;}
-.hobfoto{margin-top: -37px;margin-left: 13px;}
-.hob1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: center;margin-top: -86px;margin-left: -83px;}
-.hob2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;font-size: 13px;margin-left: 143px;margin-top: -11px;}
+.exp2{color: #ffffff;font-weight: bold;font-family: 'Open Sans', sans-serif;text-align: center;margin-left: 130px;margin-top: 15px;text-align: justify;padding-top: 10px;}
+.novacapfoto{margin-left: 14px;margin-top: -35px;}
+.novacap1{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-top: -67px;margin-left: 130px;text-align: justify;}
+.novacap2{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;font-size: 13px;margin-left: 130px;margin-top: -13px;text-align: justify;}
+.banexp3{margin-top: 124px;margin-left: 6px;background-color: #042c83;max-width: 670px;height: 140px;background-color: #0808085e;border-radius: 10px;}
+.hob{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;margin-left: 55px;margin-left: 130px;text-align: justify;padding-top: 10px;}
+.hobfoto{margin-top: -45px;margin-left: 13px;}
+.hob1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: center;margin-top: -80px;margin-left: 130px;text-align: justify;}
+.hob2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: center;font-size: 13px;margin-left: 130px;margin-top: -11px;text-align: justify;}
 .marg1{margin-top: -18px;margin-left: 56px;}
 .pro2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;font-size: 30px;padding-top: 4px;}
 .title1{margin-bottom: -23px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;max-width: 650px;text-indent: 30px;}
