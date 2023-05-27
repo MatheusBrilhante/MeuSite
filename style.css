@@ -30,7 +30,25 @@
         .title2{text-align: center;margin-left: 700px;margin-top: 74px;}
         .textport{margin-left: 350px;margin-top: 10px;}
         .move1{text-align: center;margin-left: 650px;}
-        article > img.android1{width: 100%;background-size: 100%;}
+        .sobremimh1{padding-top: 48px;}
+        .text{font-size: 20px;}
+        .text1{font-size: 20px;}
+        .text2{font-size: 20px;}
+        .text3{font-size: 20px;}
+        
+        
+
+    }
+
+    @media(max-width:1399px){
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
+        .sobre1{max-width: 660px;}
+        .sobre2{max-width: 650px;margin-left: 650px;}
+
+
     }
 
     @media(max-width:892px){
@@ -59,7 +77,12 @@
         .aprendiz{margin-left: 30px;margin-top: -86px;}
         .aprendiz1{margin-left: 130px;font-size: 14px;}
         .tsefoto{margin-top: 26px;padding-right: 50px;margin-left: 11px;}
-
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
+        
+        
         }
         
     @media(max-width:891px){
@@ -74,6 +97,11 @@
         picture a {padding: 10px;}
         .sobre1{margin-top: -60px;}
         .sobre2{margin-top: -2058px;} 
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
+        
 
     }
 
@@ -81,10 +109,10 @@
        main img.foto1{margin: auto;margin-left: 234px;}
        .sobre1{max-width: 800px;}
        .sobre2{max-width: 800px;height: 750px;}
-       .text{font-size: 20px;}
-       .text1{font-size: 20px;}
-       .text2{font-size: 20px;}
-       .text3{font-size: 20px;}
+       .text{font-size: 15px;}
+       .text1{font-size: 15px;}
+       .text2{font-size: 15px;}
+       .text3{font-size: 15px;}
        .text4{font-size: 20px;}
        .banexp1{max-width: 795px;height: 200px;}
        .banexp2{max-width: 795px;height: 200px;}
@@ -99,6 +127,7 @@
        .novacap2{font-size: 20px;margin-left: 142px;}
        .exp1{font-size: 28px;padding-top: 10px;text-decoration: underline #00e6fd;margin-left: 55px;}
        .tsefoto{margin-top: 60px;}
+         
 
     }
 
@@ -116,6 +145,11 @@
         .sobre1{margin-top: -138px;}
         .project1{padding-top: 1px;}
         .sobre2{margin-top: -2139px;height: 745px;}
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
+        
 
         }
         
@@ -133,6 +167,11 @@
         .project1{padding-top: 1px;}
         .sobre2{margin-top: -2092px;height: 745px;}
         main img.foto1{margin: auto;margin-left: 63px;}
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
+        
 
     }  
 
@@ -142,6 +181,11 @@
         main img.foto1{margin: auto;margin-left: 62px;}
         .sobre1{margin-top: -90px;}
         .sobre2{margin-top: -2085px;}
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
+        
 
     }  
 
@@ -191,15 +235,15 @@ main a:hover{text-decoration: underline #00e6fd;}
 .sobre1{height: 530px;background-color: #11111162;border-radius: 10px;margin-left: 54px;text-align: center;}
 button{transition: 0.5s;}
 button:hover{transform: scale(1.2);}
-.sobremimh1{text-decoration: underline #00e6fd;font-family: 'Open Sans', sans-serif;font-size: 30px;color: #ffffff;padding-top: 38px;text-align: center;}
+.sobremimh1{text-decoration: underline #00e6fd;font-family: 'Open Sans', sans-serif;font-size: 30px;color: #ffffff;text-align: center;}
 .sobre2{height: 530px;background-color: #11111162;border-radius: 10px;margin-top: -2000px;}
 .banner4{font-family: 'Open Sans', sans-serif;font-size: 30px;color: #ffffff;text-align: center;text-decoration: underline #00e6fd;font-weight: bold;padding-top: 38px;}
 article{background-color: #11111162;display: block;height: 900px;margin-top: 8px;border-radius: 5px;}
 .pro1{font-family: 'Open Sans', sans-serif;font-size: 30px;color: black;padding-top: 25px;text-align: center;}
-.text{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;}
-.text1{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;margin-top: -25px;}
-.text2{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;margin-top: -25px;text-indent: 30px;}
-.text3{color: #ffffff;font-weight: bold;text-align: justify;font-size: 15px;padding: 15px;text-indent: 30px;margin-top: -25px;}
+.text{color: #ffffff;font-weight: bold;text-align: justify;padding: 15px;text-indent: 30px;}
+.text1{color: #ffffff;font-weight: bold;text-align: justify;padding: 15px;text-indent: 30px;margin-top: -25px;}
+.text2{color: #ffffff;font-weight: bold;text-align: justify;padding: 15px;margin-top: -25px;text-indent: 30px;}
+.text3{color: #ffffff;font-weight: bold;text-align: justify;padding: 15px;text-indent: 30px;margin-top: -25px;}
 .m1{padding-bottom: 30px;}
 .exp1{margin-left: 140px;font-family: 'Open Sans', sans-serif;color: #ffffff;text-align: center;margin-top: -105px;margin-bottom: -4px;text-align: justify;padding-top: 15px;}
 .tsefoto{margin-top: -0px;padding-right: 50px;margin-left: 15px;}
@@ -235,4 +279,3 @@ article{background-color: #11111162;display: block;height: 900px;margin-top: 8px
 article button{color: #00e6fd;margin-left: 100px;font-size: 20px;background-color:#11111100 ;transition: 0.5s;font-family: 'Open Sans', sans-serif;font-weight: bold;color: #ffffff;border: 1px solid #00e6fd;}
 article img{transition: 0.5s;}
 article img:hover{transform: scale(1.1);}
-aside{}
