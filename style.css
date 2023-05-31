@@ -18,18 +18,19 @@
         .banner1{max-width: 1930px;}
         section{max-width: 1930px;}
         .banner3{max-width: 1930px;}
-        .sobre1{max-width: 930px;margin-left: 57px;}
-        .sobre2{max-width: 918px;margin-left: 900px;height: 567px;}
-        article{max-width: 1860px;margin-left: 12px;margin-top: 10px;}
+        .sobre1{max-width: 940px;margin-left: 40px;}
+        .sobre2{max-width: 930px;margin-left: 900px;height: 567px;}
+        article{max-width: 1890px;margin-left: 0px;margin-top: 10px;}
         .banexp1{max-width: 905px;height: 140px;}
         .banexp2{max-width: 905px;height: 140px;}
         .banexp3{max-width: 905px;height: 140px;margin-top: 17px;}
-        .android1{margin: auto;margin-left: 900px;}
-        .proban{margin-left: 200px;}
-        .Portfólio1{display: block;margin: auto;margin-left: 200px;margin-top: 10px;}
-        .title2{text-align: center;margin-left: 700px;margin-top: 74px;}
-        .textport{margin-left: 350px;margin-top: 10px;}
-        .move1{text-align: center;margin-left: 650px;}
+        .android1{margin: auto;margin-left: 690px;}
+        .proban{margin-left: 274px;}
+        .proban1{margin-left: 100px;}
+        .Portfólio1{display: block;margin: auto;margin-left: 187px;margin-top: 10px;}
+        .title2{text-align: center;margin-left: 790px;margin-top: 74px;}
+        .textport{margin-left: 230px;margin-top: 10px;}
+        .move1{margin-left: 870px;margin-bottom: 42px;}
         .sobremimh1{padding-top: 48px;}
         .text{font-size: 20px;}
         .text1{font-size: 20px;}
@@ -44,9 +45,10 @@
         .margtse{margin-top: -113px;}
         .aprendiz{margin-top: 2px;}
         .formbanner{max-width: 1930px;height: 450px;background-color: #0808085e;border-radius: 10px;margin-top: 98px;}
-        .titleform{font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;padding-top: 29px;}
+        .titleform{font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;padding-top: 68px;}
         article li{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;padding-top: 15px;padding-top: 20px;}
         ul{list-style-type: '\2714';margin-top: 10px;margin-top: 50px;margin-left: 10px;margin-left: 240px;}
+        .title1{text-align: center;margin-left: 13px;}
         
 
     }
@@ -54,19 +56,29 @@
         main section aside img.hobfoto{margin-top: -56px;}
         .hob1{padding-top: 17px;}
     }
+    @media(max-width:1563px){
+        .sobre1{max-width: 770px;margin-bottom: 1px;height: 572px;}
+        .sobre2{padding-bottom: 4px;max-width: 751px;margin-left: 718px;}
+        .proban{margin-left: 100px;}
+        .proban1{margin-left: -89px;}
+        .textport{margin-left: 176px;}
+        .move1{margin-left: 815px;}
+
+    }
+
 
     @media(max-width:1451px){
         .sobre1{max-width: 710px;height: 568px;}
         .sobre2{max-width: 687px;margin-left: 676px;}
         .proban{margin-left: 48px;}
-        .android1{margin-left: 850px;}
-        .Portfólio1{margin-left: 70px;}
-        .textport{margin-left: 61px;}
-        .title1{margin-left: 216px;}
-        .title2{margin-left: 650px;}
+        .android1{margin-left: 738px;}
+        .Portfólio1{margin-left: 158px;}
+        .textport{margin-left: 123px;}
+        .title1{margin-left: -8px;}
+        .title2{margin-left: 700px;}
         .proban1{padding-top: 2px;}
         .move{margin-left: 70px;}
-        .move1{margin-left: 541px;}
+        .move1{margin-left: 807px;}
 
     }
     @media(max-width:1400px){
@@ -80,7 +92,7 @@
         .text1{font-size: 15px;}
         .text2{font-size: 15px;}
         .text3{font-size: 15px;}
-        .sobre1{max-width: 650px;height: 590px;margin-left: 43px;}
+        .sobre1{max-width: 668px;height: 594px;margin-left: 43px;}
         .mainh4{margin-top: 20px;}
         .banexp1{margin-top: 20px;height: 145px;padding-top: 1px;margin-left: 1px;}
         .banexp2{height: 145px;margin-left: 1px;}
@@ -88,10 +100,10 @@
         .sobre2{max-width: 663px;margin-left: 618px;height: 590px;}
         article{max-width: 1335px;margin-top: 10px;margin-left: -0px;}
         .proban{margin-left: 50px;}
-        .android1{margin: auto;margin-left: 700px;}
+        .android1{margin: auto;margin-left: 670px;}
         .move{margin-top: 34px;text-align: center;margin-left: -650px;}
-        .Portfólio1{display: block;margin: auto;margin-left: 50px;margin-top: 10px;}
-        .textport{margin-left: 10px;margin-top: 10px;}
+        .Portfólio1{display: block;margin: auto;margin-left: 150px;;margin-top: 10px;}
+        .textport{margin-left: 60px;;margin-top: 10px;}
         .move1{text-align: center;margin-left: 550px;margin-top: 34px;}
         .formbanner{margin-top: 55px;background-color: #11111162;}
         ul{margin-left: 72px;}
@@ -107,10 +119,10 @@
         .banexp3{margin-top: 20px;}
         .proban{margin-left: 29px;}
         .android1{margin-left: 681px;}
-        .title2{margin-left: 550px;}
-        .textport{margin-left: -31px;}
+        .title2{margin-left: 659px;}
+        .textport{margin-left: 67px;}
         .move{margin-left: -746px;}
-        .move1{margin-left: 390px;}
+        .move1{margin-left: 470px;}
     }
 
     @media(max-width:1295px){
