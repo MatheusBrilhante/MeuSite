@@ -19,8 +19,8 @@
         section{max-width: 1930px;}
         .banner3{max-width: 1920px;height: 1417px;margin-right: -11px;margin-left: -8px;}
         .sobre1{max-width: 937px;margin-left: 8px;height: 567px;}
-        .sobre2{max-width: 920px;margin-left: 900px;height: 567px;margin-top: -566px;}
-        article{max-width: 1890px;margin-left: 0px;margin-right: 5px;;margin-top: -553px;height: 1851px;}
+        .sobre2{max-width: 935px;margin-left: 900px;height: 567px;margin-top: -566px;}
+        article{max-width: 1920px;margin-left: 0px;margin-right: 5px;;margin-top: -553px;height: 1851px;}
         .banexp1{max-width: 905px;height: 140px;}
         .banexp2{max-width: 905px;height: 140px;}
         .banexp3{max-width: 905px;height: 140px;margin-top: 17px;}
@@ -58,7 +58,9 @@
 
     }
 
-    @media(max-width:1625px){}
+    @media(max-width:1635px){
+        .textport{margin-left: 128px;}
+    }
 
     @media(max-width:1563px){
         main section aside img.hobfoto{margin-top: -56px;}
