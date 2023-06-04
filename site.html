@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="imagens/m.png" type="image/x-icon">
     <title>Portfólio Matheus </title>
     <link rel="stylesheet" href="style.css">
-    <script src ="js/scripts.js" defer></script>
+    <script src="js/scripts.js" defer></script>
     <style>
      
       
@@ -59,7 +59,7 @@
                     <div class="sobre1">
                         <div class="m1">
                             <h1 class="sobremimh1">Sobre Mim </h1>
-                            <div class="sobremimban">    
+                            <div class="sobremimban"> 
                                 <div class="textban">
                                     <p class="text">Sou Dev Front-End Apaixonado por transformar ideias em realidade, combinando habilidade técnica e criatividade. </p>
                                     <p class="text1">Desde cedo, graças ao contato  com computadores e video games por meio de meu pai. Aprendi a utilizar Windows, formatar
@@ -172,18 +172,26 @@
                             <h1 class="entrecont"> Contato </h1>
                         </div>
                         <div class="moveform">
-                            <form id="form">
-                                <label for="name">Nome:</label>
-                                <input type="text" id="name"/>
+                            <form action="https://api.staticforms.xyz/submit" method="post">
+                                <form id="form">
+                                    <div class="form-control">
+                                        <label for="name">Nome:</label>
+                                        <input type="text" id="name"/>
 
-                                <label for="email">E-mail:</label>
-                                <input type="email" id="email"/>
+                                        <label for="email">E-mail:</label>
+                                        <input type="email" id="email"/>
 
-                                <label for="message">Mensagem:</label>
-                                <textarea name="message" id="message"></textarea>
-                                <div class="movebutton">
-                                    <button class="button1" type="submit">Enviar</button>
-                                </div>
+                                        <label for="message">Mensagem:</label>
+                                        <textarea name="message" id="message"></textarea>
+                                    </div>
+                                    <div class="movebutton">
+                                        <button class="button1" type="submit">Enviar</button>
+                                    </div>
+                                    
+                                    <input type="hidden" name="accessKey" value="74a912ec-9c76-4b7b-9435-df7496272422">
+                                    <input type="hidden" name="redirectTo" value="file:///C:/Users/matheus.brilhante/Documents/MeuSite/obrigado.html?message=sadf">
+
+                                </form>
                             </form>
                         </div>
                     </div>    
