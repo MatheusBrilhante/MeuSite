@@ -390,3 +390,6 @@ article{background-color: #11111162;border-radius: 5px;}
 article button{color: #00e6fd;margin-left: 100px;font-size: 20px;background-color:#11111100 ;transition: 0.5s;font-family: 'Open Sans', sans-serif;font-weight: bold;color: #ffffff;border: 1px solid #00e6fd;}
 article img{transition: 0.5s;}
 article img:hover{transform: scale(1.1);}
+.placeholder{font-family: 'Open Sans', sans-serif;color: #ffffff;}
+.form-control{margin-bottom: 10px;}
+form input{margin-bottom: 15px;}
