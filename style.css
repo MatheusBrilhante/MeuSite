@@ -51,10 +51,18 @@
         .title1{text-align: center;margin-left: 13px;}
         .entrecont{padding-top: 40px;font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
         .bannercont2{max-width: 1950px;height: 579px;margin-top: 34px;margin-right: 0px;margin-left: -8px;}
-        .bannercont3{margin-top: -25px;max-width: 1330px;height: 520px;margin-left: 17px;border-radius: 5px;}
+        .bannercont3{margin-top: -25px;max-width: 1330px;height: 520px;margin-left: 320px;border-radius: 5px;}
         .bannert{background-color: #111111e8;margin-top: 553px;margin-left: -17px;margin-right: -16px;;height: 858px;}
         .formbanner1{background-color: #111111e8;margin-top: 553px;margin-left: -17px;margin-right: -16px;margin-top: -553px;}
         .sobremimban{background-color: #0808085e;height: 400px;max-width: 900;border-radius: 10px;}
+        .bannercont{margin-left: -65px;}
+        .moveform{padding: 10px;margin-right: 31px;}
+        .movebutton{margin-left: 429px;margin-top: 22px;}
+        article form{font-family:'Open Sans', sans-serif;box-sizing: border-box;font-weight: bold;color: #ffffff;}
+        form{display: flex;flex-direction: column;gap: .5rem;max-width: 1200px;margin: 0 auto;}
+        label{margin-bottom: 5px;}
+        input,select,textarea{width: 100%;padding: 10px;border: 1px solid #ccc;border-radius: 5px;font-size: 1.1rem;background-color:#11111162;color:#ffffff;}
+        button{border: none;border-radius: 5px;color: #ffffff;cursor: pointer;font-size: 1.1rem;}
 
     }
 
