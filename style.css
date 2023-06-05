@@ -309,7 +309,7 @@ header{background-color: #111111e8;color: rgb(0, 0, 0);margin: auto;padding-top:
 .nav1 > a:hover {transform: scale(1.1);background-color: #1111116c;border-radius: 5px;text-decoration: underline #00e6fd;}
 nav a {transition: 0.5s;}
 nav a:hover{transform: scale(1.1);}
-.fotoperfil{margin: auto;margin-left: 80px;border-radius: 100px;padding-top: 72px;}
+.fotoperfil{margin: auto;margin-left: 80px;border-radius: 50px;padding-top: 72px;}
 .mainh{margin-top: 37px;margin: auto;}
 .mainh1{font-family: 'Open Sans', sans-serif;font-size: 40px;text-align: center; margin-top: -383px;margin-left: 400px;color: #ffffff;font-weight: bold;}
 .mainh2{font-family: 'Open Sans', sans-serif;font-size: 30px;text-align: center;margin-left: 400px;color: #ffffff;}
@@ -339,7 +339,7 @@ picture  a {color: #0e214b00;}
 p{font-family: 'Open Sans', sans-serif;}
 .h1banner2{margin: auto;}
 .teste2{border-radius: 5px;}
-.foto1{border-radius: 200px;}
+.foto1{border-radius: 100px;}
 main a{text-align: center;color: #ffffff;transition: 0.5s;}
 main a:hover{text-decoration: underline #00e6fd;}
 .project1{text-align: center;margin-left: 400px;padding-top: 29px;}
@@ -393,3 +393,5 @@ article img:hover{transform: scale(1.1);}
 .placeholder{font-family: 'Open Sans', sans-serif;color: #ffffff;}
 .form-control{margin-bottom: 10px;}
 form input{margin-bottom: 15px;}
+.form1{margin-top: -409px;}
+.button1{margin-left: 570px;margin-top: 20px;}

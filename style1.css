@@ -1,0 +1,9 @@
+main{background:#080808e6;display: flex;align-items: center;min-height: 100vh;flex-direction: column;
+margin-top: -8px;margin-left: -8px;margin-right: -8px;margin-bottom: -8px;max-width: 1920px;}
+h1{color: rgb(241, 241, 241);font-family: 'Open Sans', sans-serif;font-size: 40px;}
+h2{color: rgb(241, 241, 241);font-family: 'Open Sans', sans-serif;font-size: 25px;margin-top: -15px;}
+main a{text-align: center;color: #ffffff;transition: 0.5s;font-size: 20px;margin-top: 10px;}
+main a:hover{text-decoration: underline #00e6fd;border-radius: 5px;}
+.btn{padding: 15px 55px;background: #080808a6;border-radius: 10px;}
+.foto1{margin: auto;border-radius: 100px;margin-top: 19px;}
+img{margin: auto;}
