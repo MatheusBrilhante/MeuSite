@@ -66,6 +66,9 @@
         .form1{margin-top: 44px;margin-left: -110px;}
         .button1{padding-left: 12px;padding-right: -35px;max-width: 150px;margin: auto;margin-left: 586px;}
         .mainh1{margin-top: -410px;}
+        .p1{max-width: 650px;margin-left: 610px;}
+        .p2{max-width: 650px;margin-left: 610px;}
+        .p3{max-width: 650px;margin-left: 610px;}
 
     }
 
@@ -173,6 +176,25 @@
         .button1{margin-left: 466px;}
 
     }
+    @media(max-width:1285px){
+        main article img.android1{display: block;margin: auto;width: 30%;margin-left: 673px;}
+        .proban{margin-top: 140px;}
+        .title1{}
+        .para1{margin-top: -95px;}
+        .para2{margin-top: -11px;}
+        .move{margin-left: -466px;}
+        main article img.Portfólio1{display: block;margin: auto;width: 30%;margin-left: 118px;padding-top: 36px;}
+        .textport{margin-top: 46px;margin-left: -172px;font-size: 15px;}
+        .p1{font-size: 15px;max-width: 567px;margin-left: 660px;}
+        .p2{font-size: 15px;max-width: 567px;margin-left: 660px;}
+        .p3{font-size: 15px;max-width: 567px;margin-left: 660px;}
+        .title2{margin-left: 439px;}
+
+
+
+    }
+
+
     @media(max-width:1254px){
         .banexp1{height: 145px;margin-top: 30px;}
         .banexp2{margin-top: -20px;}
@@ -391,7 +413,7 @@ article{background-color: #11111162;border-radius: 5px;}
 .marg1{margin-top: -18px;margin-left: 56px;}
 .pro2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;font-size: 30px;padding-top: 4px;}
 .title1{margin-bottom: -23px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;max-width: 650px;text-indent: 30px;}
-.para1{margin-top: -184px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
+.para1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
 .para2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
 .proban{margin-top: 62px;}
 .rep1{margin-top: 30px;}
@@ -399,9 +421,9 @@ article{background-color: #11111162;border-radius: 5px;}
 .hr1{margin-top: 50px;}
 .title2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;max-width: 650px;text-indent: 30px;}
 .Portfólio1{margin-top: 31px;}
-.p1{margin-left: 610px;margin-top: -242px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
-.p2{margin-left: 610px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
-.p3{margin-left: 608px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;font-size: 15px;max-width: 650px;text-indent: 30px;}
+.p1{margin-top: -242px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;text-indent: 30px;}
+.p2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;text-indent: 30px;}
+.p3{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align: justify;text-indent: 30px;}
 article button{color: #00e6fd;margin-left: 100px;font-size: 20px;background-color:#11111100 ;transition: 0.5s;font-family: 'Open Sans', sans-serif;font-weight: bold;color: #ffffff;border: 1px solid #00e6fd;}
 article img{transition: 0.5s;}
 article img:hover{transform: scale(1.1);}
