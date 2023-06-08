@@ -233,12 +233,84 @@
         .textport{margin-left: -51px;}
         .move1{margin-left: 476px;}
         .form1{margin-left: -234px;}
-        article button{margin-top: ;}
+        
+    }
+
+    @media(max-width:1150px){
+        .sobre1{max-width: 533px;}
+        .sobre2{margin-left: 502px;}
+        .form1{margin-left:-260px;}
+
+    }
+
+    @media(max-width:1130px){
+        .h1header{margin-left: 150px;}
+        main img.foto1{margin-left: 10px;}
+        .sobre1{max-width: 540px;margin-left: 13px;}
+        .title1{margin-left: -53px;}
+        .para1{max-width: 450px;margin-left: 71px;}
+        .para2{max-width: 450px;margin-left: 71px;}
+        .move{margin-left: -451px;}
+        main article img.android1{margin-left: 616px;}
+        .title2{margin-left: 460px;}
+        .p1{max-width: 450px;}
+        .p2{max-width: 450px;}
+        .p3{max-width: 450px;}
+        .bannert{height: 973px;}
+        .formbanner1{margin-top: -551px;}
+        article{height: 1875px;}
+        .textport{margin-left: -77px;}
+        .but2{margin-left: 13px;}
+        .move1{margin-left: 432px;}
+        .form1{margin-left: -200px;}
+    }
+    @media(max-width:1130px){
+        .form1{max-width: 868px;}
+    }
+
+    @media(max-width:1102px){
+        .formbanner1{margin-top: -551px;}
+        .bannert{height: 973px;}
+
+    }
+    
+    @media(max-width:1050px){
+        .formbanner1{margin-top: -551px;}
+        .bannert{height: 973px;}
+        .form1{max-width: 700px;margin-left: -150px;}
+        .button1{margin-left: 322px;}
+
+    }
+    
+    @media(max-width:1050px){
+        .but2{margin-left: 69px;font-size: 15px;}
+        .but1{font-size: 15px;}
+        .move{margin-left: -441px;}
+        .move1{margin-left: 494px;}
     }
 
     @media(max-width:1025px){
         .sobre1{max-width: 500px;}
         .sobre2{margin-left: 469px;}
+    }
+
+    @media(max-width:1015px){
+        .sobre1{max-width: 438px;}
+        .sobre2{margin-left: 402px;}
+
+    }
+    
+    @media(max-width:988px){
+        main article img.android1{margin-left: 578px;}
+        .textport{margin-left: -129px;}
+        .move1{margin-left: 432px;}
+        .form1{margin-left: -199px;}
+        .entrecont{margin-left: -350px;}
+
+    }
+    
+    @media(max-width:950px){
+        
     }
 
 
