@@ -578,10 +578,46 @@
     }
 
     @media(max-width:685px){
-        
+        main img.foto1{margin-left: 135px;}
+        .banner1{height: 814px;}
+        .mainh1{margin-left: 63px;margin-top: 10px;}
+        .mainh2{margin-left: 63px;margin-top: -35px;}
+        .ling{margin-left: 61px;margin-top: -18px;}
+        .redes1{padding-left: 51px;padding-top: 26px;}
+        .project1{margin-left: 52px;margin-top: -21px;}
     }
 
+    @media(max-width:600px){
+        main img.foto1{margin-left: 98px;}
 
+    }
+
+    @media(max-width:596px){
+        .sobre1{height: 568px;}
+        .sobremimban{height: 398px;}
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
+        .banner3{height: 1412px;}
+        .bannert{margin-top: -214px;}
+        .para1{margin-top: -335px;margin-left: 53px;font-size: 15px;max-width: 400px;}
+        .para2{margin-left: 53px;font-size: 15px;max-width: 400px;}
+        main article img.android1{margin-top: 240px;}
+        .move{margin-top: 262px;}
+        .p1{font-size: 15px;max-width: 400px;margin-left: 673px;}
+        .p2{font-size: 15px;max-width: 400px;margin-left: 673px;}   
+        .p3{font-size: 15px;max-width: 400px;margin-left: 673px;}
+        .textport{margin-top: -460px;margin-left: -510px;}
+        main article img.Portfólio1{margin-top: 265px;margin-left: 154px;}
+        
+
+    }
+    
+    @media(max-width:558px){
+        main img.foto1{margin-left: 76px;}
+
+    }
 
     
     @media(max-width:482px){
