@@ -555,9 +555,16 @@
         main article img.Portfólio1{margin-top: 326px;}
         
     }
+   
+    
+    
+    
     @media(max-width:721px){
         .form1{max-width: 400px;margin-left: -173px;}
         .button1{margin-left: 152px;}
+        .bannert{height: 1648px;}
+        article{height: 1635px;}
+        .formbanner1{margin-top: -553px;}
     }
     
     
@@ -610,12 +617,32 @@
         .p3{font-size: 15px;max-width: 400px;margin-left: 673px;}
         .textport{margin-top: -460px;margin-left: -510px;}
         main article img.Portfólio1{margin-top: 265px;margin-left: 154px;}
+        .bannert{height: 1386px;}
+        article{height: 1378px;}
+        .but1{font-size: 15px;}
+        .but2{font-size: 15px;}
+        .move1{margin-top: 263px;margin-left: 73px;}
+        .fotoperfil{margin-left: 11px;}
+        .form1{margin-left: -245px;}
         
-
     }
-    
+
+    @media(max-width:584px){
+        .formbanner{height: 452px;}
+    }
+
+    @media(max-width:573px){
+        .nav1{margin-left: 147px;}
+    }
+
     @media(max-width:558px){
         main img.foto1{margin-left: 76px;}
+
+    }
+
+    @media(max-width:531px){
+        .h1header{margin-left: 17px;}
+        .nav1{margin-left: 97px;}
 
     }
 
@@ -729,7 +756,7 @@ button:hover{transform: scale(1.2);}
 .sobremimh1{text-decoration: underline #00e6fd;font-family: 'Open Sans', sans-serif;color: #ffffff;text-align: center;}
 .sobre2{background-color: #11111162;border-radius: 10px;margin-right: 15px;}
 .banner4{font-family: 'Open Sans', sans-serif;color: #ffffff;text-align: center;text-decoration: underline #00e6fd;font-weight: bold;padding-top: 38px;}
-article{background-color: #11111162;border-radius: 5px;}
+article{background-color: #11111162;border-radius: 10px;}
 .pro1{font-family: 'Open Sans', sans-serif;font-size: 30px;color: black;padding-top: 25px;text-align: center;}
 .text{color: #ffffff;font-weight: bold;text-align: justify;padding: 15px;text-indent: 30px;}
 .text1{color: #ffffff;font-weight: bold;text-align: justify;padding: 15px;text-indent: 30px;margin-top: -25px;}
