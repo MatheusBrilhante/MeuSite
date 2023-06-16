@@ -13,7 +13,7 @@
         .h1header{padding-top: 1px;margin-left: 370px;font-size: 25px;margin-top: -5px;}
         header{max-width: 1920px;}
         .nav1{margin-left: 350px;}
-        .nav1 > a {padding: 20px;}
+        .nav1 > a {padding: 20px;padding-bottom: 4px;}
         .novacapfoto{margin-left: 14px;margin-top: -35px;}
         .banner1{height: 550px;}
         article button{margin-left: 100px;}
@@ -37,7 +37,7 @@
         .banner3{max-width: 1920px;height: 579px;margin-right: -11px;margin-left: -8px;}
         .sobre1{max-width: 937px;margin-left: 16px;height: 567px;}
         .sobre2{max-width: 935px;margin-left: 900px;height: 567px;margin-top: -566px;}
-        article{max-width: 1920px;margin-left: 8px;margin-right: 5px;;margin-top: -553px;height: 1977px;}
+        article{max-width: 1920px;margin-left: 8px;margin-right: 5px;;margin-top: -553px;height: 2090px;}
         .banexp1{max-width: 905px;height: 140px;}
         .banexp2{max-width: 905px;height: 140px;}
         .banexp3{max-width: 905px;height: 140px;margin-top: 17px;}
@@ -47,7 +47,8 @@
         .Portfólio1{display: block;margin: auto;margin-left: 124px;margin-top: 10px;}
         .title2{text-align: center;margin-left: 790px;margin-top: 74px;}
         .textport{margin-left: 197px;margin-top: 10px;}
-        .move1{margin-left: 870px;margin-bottom: 42px;}
+        .move1{margin-left: 1049px;margin-bottom: 42px;}
+        .but2{margin-left: 1044px;}
         .sobremimh1{padding-top: 48px;}
         .text{font-size: 20px;}
         .text1{font-size: 20px;}
@@ -65,16 +66,18 @@
         .margtse{margin-top: -113px;}
         .aprendiz{margin-top: 2px;}
         .aprendiz1{font-size: 13px;}
-        .formbanner{max-width: 1930px;height: 401px;background-color: #11111162;border-radius: 10px;margin-top: 371px;margin-left: 17px;margin-right: 14px;}
+        .formbanner{max-width: 1930px;height: 401px;background-color: #11111162;border-radius: 10px;margin-top: 371px;margin-left: 17px;margin-right: 16px;}
         .titleform{font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;padding-top: 68px;}
         article li{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;padding-top: 15px;padding-top: 20px;}
         ul{list-style-type: '\2714';margin-top: 10px;margin-top: 50px;margin-left: 10px;margin-left: 240px;}
-        .title1{text-align: center;margin-left: 13px;}
+        .title1{text-align: center;margin-left: -49px;}
+        .move{margin-left: 226px;}
+        .butlado{margin-top: 36px;margin-left: 83px;}
         .entrecont{padding-top: 40px;font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
         .bannercont2{max-width: 1950px;height: 579px;margin-top: 34px;margin-right: 0px;margin-left: -8px;}
         .bannercont3{margin-top: -25px;max-width: 1330px;height: 520px;margin-left: 320px;border-radius: 5px;}
-        .bannert{background-color: #111111e8;margin-top: 553px;margin-left: -18px;margin-right: -16px;height: 1040px;}
-        .formbanner1{background-color: #111111e8;margin-left: -17px;margin-right: -16px;margin-top: -369px;}
+        .bannert{background-color: #111111e8;margin-top: 553px;margin-left: -18px;margin-right: -16px;height: 1142px;}
+        .formbanner1{background-color: #111111e8;margin-top: -359px;}
         .sobremimban{background-color: #0808085e;height: 400px;max-width: 900;border-radius: 10px;}
         .bannercont{margin-left: -65px;}
         .moveform{padding: 10px;margin-right: 31px;}
@@ -97,6 +100,9 @@
 
     @media(max-width:1635px){
         .textport{margin-left: 128px;}
+        .title2{margin-left: 715px;}
+        .move1{margin-left: 965px;}
+        .but2{margin-left: 963px;}
     }
 
     @media(max-width:1563px){
@@ -110,6 +116,9 @@
         .hob1{padding-top: 17px;}
         .form1{margin-left: -300px;}
         .entrecont{margin-left: -183px;}
+        .title2{margin-left: 759px;}
+        .move1{margin-left: 1019px;}
+        .but2{margin-left: 818px;}
 
     }
 
@@ -124,8 +133,11 @@
         .title1{margin-left: -8px;}
         .title2{margin-left: 700px;}
         .proban1{padding-top: 2px;}
-        .move{margin-left: 70px;}
-        .move1{margin-left: 807px;}
+        .move{margin-left: 271px;}
+        .butlado{margin-left: 128px;}
+        .bannert{height: 1152px;}
+        .move1{margin-left: 953px;}
+        .but2{margin-left: 761px;}
         .fotoperfil{margin-left: 22px;}
         .para1{max-width: 670px;margin-left: 3px;}
         .para2{max-width: 670px;margin-left: 3px;}
@@ -171,7 +183,7 @@
         button{border: none;border-radius: 5px;color: #ffffff;cursor: pointer;font-size: 1.1rem;}
         form button{padding-left: 12px;padding-right: -35px;max-width: 150px;margin: auto;}
         .movebutton{margin-left: 470px;padding-top: 20px;}
-        .bannert{margin-top: -215px;height: 1139px;}
+        .bannert{margin-top: -215px;height: 1175px;}
         .form1{margin-top: -400px;margin-left: -341px;}
         .mainh1{margin-top: -410px;}
         .para1{margin-left: -14px;}
@@ -185,15 +197,15 @@
         .banexp2{margin-top: 31px;}
         .banexp3{margin-top: 20px;}
         .proban{margin-left: 29px;}
-        .android1{margin-left: 681px;}
+        .android1{margin-left: 688px;}
         .title2{margin-left: 659px;}
         .textport{margin-left: 67px;}
-        .move{margin-left: -478px;}
-        .move1{margin-left: 424px;}
+        .move{margin-left: -599px;}
+        .move1{margin-left: 631px;}
         .para1{max-width: 650px;margin-left: 10px;}
         .para2{max-width: 650px;margin-left: 10px;}
-        .but2{margin-left: 610px;}
-        .butlado{margin-top: 34px;margin-left: 90px;}
+        .but2{margin-left: 718px;}
+        .butlado{margin-top: 34px;margin-left: 127px;}
         .bannert{height: 1173px;}
     }
 
@@ -213,7 +225,7 @@
         .proban{margin-top: 140px;}
         .para1{margin-top: -172px;}
         .para2{margin-top: -11px;}
-        .move{margin-left: -734px;}
+        .move{margin-left: -585px;}
         main article img.Portfólio1{display: block;margin: auto;width: 30%;margin-left: 168px;padding-top: 36px;}
         .move1{margin-left: 529px;}
         .textport{margin-top: 46px;margin-left: 16px;font-size: 15px;}
@@ -223,13 +235,25 @@
         .title2{margin-left: 611px;}
         .para1{font-size: 15px;}
         .para2{font-size: 15px;}
-        .bannert{height: 916px;}
-        .formbanner1{margin-top: -552px;}
+        .bannert{height: 1015px;}
+        .formbanner1{margin-top: -535px;}
         article{height: 1815px;}
-
-
+        .butlado{margin-left: 120px;}
+        .but2{margin-left: 652px;}
 
     }
+
+    @media(max-width:1283px){
+        .bannert{}
+        .formbanner1{margin-top: -534px;}
+
+    }
+    
+    @media(max-width:1283px){
+        .formbanner1{margin-top: -530px;}
+    
+    }
+  
 
 
     @media(max-width:1254px){
@@ -241,9 +265,14 @@
         .banexp1{height: 160px;}
         .banexp2{margin-top: -10px;}
         .banexp3{margin-top: 7px;;height: 150px;}
-        .bannert{height: 887px;}
-        .formbanner1{margin-top: -552px;}
+        .bannert{height: 1025px;}
+        .formbanner1{margin-top: -523px;}
     }
+
+    @media(max-width:1233px){
+        .formbanner1{margin-top: -509px;}
+    }
+
 
     @media(max-width:1200px){
         .sobre1{max-width: 564px;}
