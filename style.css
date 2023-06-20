@@ -415,7 +415,7 @@
         .bannert{margin-top: -216px;margin-left: -18px;height: 1590px;}
         .banner3{height: 1384px;margin-top: -33px;}
         .sobre1{max-width: 812px;margin-right: 16px;}
-        .sobre2{margin-left: -44px;margin-top: 27px;max-width: 818px;height: 700px;}
+        .sobre2{margin-left: -43px;margin-top: 27px;max-width: 818px;height: 700px;}
         .mainh1{margin-left: 468px;}
         .mainh2{margin-left: 459px;}
         .ling{margin-left: 457px;}
@@ -459,11 +459,12 @@
         main article img.Portfólio1{margin-left: 217px;margin-top: 290px;width: 65%;}
         .move1{margin-left: 106px;margin-top: 359px;}
         .but2{font-size: 25px;}
-        article{height: 2493px;}
+        article{height: 2493px;margin-left: 7px;border-radius: 10px;}
         .formbanner1{margin-top: -552px;margin-left: -18px;}
         .titleform{font-size: 40px;padding-top: 18px;}
         .entrecont{font-size: 40px;margin-left: -349px;}
         .form1{margin-left: -256px;}
+        .formbanner{margin-right: 16px;}
     }
 
     @media(max-width:857px){
@@ -633,7 +634,14 @@
         .nav1 > a{padding-bottom: 21px;}
     
     }
+    
+    @media(max-width:630px){
+        .para1{margin-left: 27px;}
+        .para2{margin-left: 27px;}
+        .textport{margin-left: -511px;}
+    }
 
+    
     @media(max-width:625px){
         .bannert{height: 1597px;}
         article{height: 2509px;}
@@ -806,6 +814,11 @@
     }
     
     @media(max-width:447px){
+        .banner3{height: 1514px;}
+        ul{margin-left: -9px;}
+    }
+
+    @media(max-width:447px){
         .banner3{height: 1526px;}
         .bannert{margin-top: -215px;}
         .sobre2{height: 861px;margin-left: -39px;}
@@ -813,6 +826,13 @@
         .h1header{margin-left: 3px;margin-top: -10px;}
         .nav1 > a{padding: 10px;padding-top: 13px;padding-bottom: 15px;}
     }
+
+    @media(max-width:441px){
+        .form1{margin-left: -257px;}
+        
+    }
+   
+
 
 
     @media(max-width:439px){
@@ -826,6 +846,8 @@
         .teste5{padding-right: 0px;}
         .teste6{padding-left: 0px;}
         .imgthml{padding-right: 0px;}
+        .form1{margin-left: -260px;}
+        .button1{margin-left: 120px;}
 
     }   
 
@@ -877,6 +899,13 @@
     
     @media(max-width:406px){
         .form1{margin-left: -279px;}
+        .imgthml{width: 10%;}
+        .imgcss{width: 10%;}
+        .teste5{width: 10%;}
+        .teste4{width: 10%;}
+        .teste6{width: 10%;}
+        .bannert{height: 1300px;}
+        article{height: 2329px;}
 
     }
 
@@ -894,12 +923,22 @@
     
     }
 
+    @media(max-width:396px){
+        .para1{max-width: 300px;margin-left: 12px;}
+        .para2{max-width: 300px;margin-left: 12px;}
+        .p1{max-width: 300px;margin-left: 709px;}
+        .p2{max-width: 300px;margin-left: 709px;}
+        .p3{max-width: 300px;margin-left: 709px;}
+
+    }
+
+
     @media(max-width:392px){
         .h1header{margin-left: 8px;}
         .nav1 > a{padding: 10px;padding-top: 16px;padding-bottom: 17px;}
         .fotoperfil{margin-left: -56px;}
-        .para1{margin-left: -6px;}
-        .para2{margin-left: -6px;}
+        .para1{margin-left: -2px;}
+        .para2{margin-left: -2px;}
         .textport{margin-left: -585px;}
         .but2{font-size: 15px;}
         .but1{font-size: 15px;}
@@ -907,7 +946,7 @@
         main article img.Portfólio1{margin-left: 144px;}
         .formbanner{height: 545px;}
         .form1{margin-left: -287px;}
-        article{height: 2407px;}
+        article{height: 2374px;}
     
     }
    
@@ -957,7 +996,7 @@
         .button1{margin-left: 120px;}
         .formbanner{margin-right: 16px;margin-left: 18px;margin-bottom: -8px;}
         .formbanner1{margin-top: -551px;}
-        .bannert{margin-top: -214px;}
+        .bannert{margin-top: -214px;height: 1296px;}
         .imgthml{width: 10%;}
         .imgcss{width: 10%;}
         .teste5{width: 10%;}
