@@ -13,7 +13,7 @@
         .h1header{padding-top: 1px;margin-left: 370px;font-size: 25px;margin-top: -5px;}
         header{max-width: 1920px;height: 36px;}
         .nav1{margin-left: 350px;}
-        .nav1  > a{padding: 20px;}
+        .nav1  > a{padding: 20px;padding-bottom: 4px;}
         .novacapfoto{margin-left: 14px;margin-top: -35px;}
         .banner1{height: 550px;}
         .banner3{margin-top: -25px;}
@@ -48,7 +48,7 @@
         .title2{text-align: center;margin-left: 790px;margin-top: 74px;}
         .textport{margin-left: 197px;margin-top: 10px;}
         .move1{margin-left: 870px;margin-bottom: 42px;}
-        .sobremimh1{padding-top: 48px;}
+        .sobremimh1{padding-top: 48px;margin-left: -38px;}
         .text{font-size: 20px;}
         .text1{font-size: 20px;}
         .text2{font-size: 20px;}
@@ -102,6 +102,14 @@
 
     }
 
+    @media(max-width:1669px){
+        .form1{margin-left: -350px;}
+        .entrecont{margin-left: -244px;}
+
+    }
+
+
+
     @media(max-width:1635px){
         .textport{margin-left: 128px;}
     }
@@ -120,6 +128,7 @@
         .entrecont{margin-left: -183px;}
         .sobremimban{height: 442px;}
         .banner4{padding-left: 46px;}
+        .Portfólio1{margin-left: 163px;}
 
     }
 
@@ -281,6 +290,12 @@
 
     }
 
+    @media(max-width:1189px){
+        main section aside img.hobfoto{margin-top: -47px;}
+        .hob{padding-top: 0px;}
+        .banexp3{height: 158px;}
+    
+    }
 
     @media(max-width:1150px){
         .sobre1{max-width: 533px;}
@@ -818,20 +833,27 @@
 
     }
 
+    @media(max-width:484px){
+        .banner3{height: 1430px;}
+    }
+
     @media(max-width:470px){
         .fotoperfil{margin-left: -19px;}
         .form1{max-width: 300px;}
         article{height: 2300px;}
+        .button1{margin-left: 124px;}
+        .form1{margin-left: -245px;}
     
     }
 
     @media(max-width:462px){
-        .banner3{height: 1485px;}
+        .banner3{height: 1514px;}
         .sobre1{height: 653px;}
         .sobre2{margin-top: 26px;}
         .sobremimban{height: 486px;}
-        .form1{margin-left: -278px;}
+        .form1{margin-left: -245px;}
         article{height: 2302px;}
+        .button1{margin-left: 124px;}
 
     }
 
@@ -1035,6 +1057,8 @@
         .para1{margin-left: 6px;}
         .para2{margin-left: 6px;}
         .button1{margin-left: 123px;}
+        .form1{max-width: 273px;margin-left: -276px;}
+        .button1{margin-left: 113px;}
     }
 
 
@@ -1084,7 +1108,7 @@
         .p3{max-width: 300px;}
         .textport{margin-left: -580px;}
         main article img.Portfólio1{margin-left: 138px;}
-        .form1{max-width: 280px;}
+        .form1{max-width: 280px;margin-left: -284px;}
         .entrecont{margin-left: -319px;}
         .button1{margin-left: 120px;}
         .formbanner{margin-right: 16px;margin-left: 18px;margin-bottom: -8px;}
