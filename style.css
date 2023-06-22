@@ -17,7 +17,7 @@
         .novacapfoto{margin-left: 14px;margin-top: -35px;}
         .banner1{height: 550px;}
         .banner3{margin-top: -25px;}
-        .banner4{font-size: 30px;}
+        .banner4{font-size: 30px;padding-left: 10px;}
         .redes1{padding-top: 38px;}
         .project1{padding-top: 29px;}
         .novacap1{margin-top: -67px;}
@@ -33,7 +33,7 @@
         main{max-width: 2000px;margin-right: 3px;}
         .banner1{max-width: 1930px;margin-right: -11px;}
         section{max-width: 1930px;}
-        .banner3{max-width: 1920px;height: 579px;margin-right: -11px;margin-left: -6px;}
+        .banner3{max-width: 1920px;height: 579px;margin-right: -11px;margin-left: -8px;}
         .sobre1{max-width: 937px;margin-left: 16px;height: 567px;}
         .sobre2{max-width: 935px;margin-left: 900px;height: 567px;margin-top: -566px;}
         article{max-width: 1920px;margin-left: 8px;margin-right: 5px;;margin-top: -553px;height: 1977px;}
@@ -53,21 +53,21 @@
         .text1{font-size: 20px;}
         .text2{font-size: 20px;}
         .text3{font-size: 20px;}
-        .hob{padding-top: 11px;margin-left: 130px;}
-        .hob1{margin-top: -87px;text-align: justify;margin-left: 130px;}
-        .hob2{margin-top: -16px;font-size: 13px;text-align: justify;margin-left: 130px;}
-        .hobfoto{margin-top: -32px;}
-        .exp1{padding-top: 15px;margin-top: -105px;margin-left: 140px;text-align: center;}
+        .hob{margin-left: 130px;padding-top: 20px;}
+        .hob1{margin-top: -81px;text-align: center;margin-left: 130px;}
+        .hob2{margin-top: -16px;font-size: 13px;text-align: center;margin-left: 120px;}
+        .hobfoto{margin-top: -39px;}
+        .exp1{margin-top: -105px;margin-left: 140px;text-align: center;padding-top: 27px;}
         .exp2{margin-left: 130px;}
         .pro2{font-size: 30px;}
         .exp2{padding-top: 19px;}
         .tsefoto{padding-top: 34px;}
-        .novacap1{text-align: justify;}
-        .novacap2{font-size: 13px;text-align: justify;}
+        .novacap1{text-align: center;}
+        .novacap2{font-size: 13px;text-align: center;margin-left: 119px;}
         .margtse{margin-top: -113px;}
         .aprendiz{margin-top: 2px;}
         .aprendiz1{font-size: 13px;}
-        .formbanner{max-width: 1930px;height: 401px;background-color: #11111162;border-radius: 10px;margin-top: 371px;margin-left: 17px;margin-right: 14px;}
+        .formbanner{max-width: 1930px;height: 401px;background-color: #11111162;border-radius: 10px;margin-top: 371px;margin-left: 18px;margin-right: 16px;margin-bottom: -6px;}
         .titleform{font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;padding-top: 68px;}
         article li{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;padding-top: 15px;padding-top: 20px;}
         ul{list-style-type: '\2714';margin-top: 10px;margin-top: 50px;margin-left: 10px;margin-left: 240px;}
@@ -113,10 +113,13 @@
         .proban1{margin-left: -89px;}
         .textport{margin-left: 176px;}
         .move1{margin-left: 815px;}
-        main section aside img.hobfoto{margin-top: -56px;}
-        .hob1{padding-top: 17px;}
+        main section aside img.hobfoto{margin-top: -37px;}
+        .hob{padding-top: 17px;}
+        .hob1{padding-top: 3px;}
         .form1{margin-left: -300px;}
         .entrecont{margin-left: -183px;}
+        .sobremimban{height: 442px;}
+        .banner4{padding-left: 46px;}
 
     }
 
@@ -165,7 +168,7 @@
         .Portfólio1{display: block;margin: auto;margin-left: 136px;margin-top: 10px;}
         .textport{margin-left: 60px;;margin-top: 10px;}
         .move1{text-align: center;margin-left: 550px;margin-top: 34px;}
-        .formbanner{margin-top: 553px;background-color: #11111162;height: 382px;}
+        .formbanner{margin-top: 554px;background-color: #11111162;height: 382px;}
         ul{margin-left: 72px;}
         li{list-style-type: '\2714';text-decoration: double;}
         .entrecont{margin-left: -293px;padding-top: 40px;font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
@@ -185,6 +188,13 @@
         .para1{margin-left: -14px;}
         .para2{margin-left: -14px;}
         .formbanner1{margin-top: -551px;}
+        .hob{padding-top: 2px;}
+        .text{font-size: 18px;}
+        .text1{font-size: 18px;}
+        .text2{font-size: 18px;}
+        .text3{font-size: 18px;}
+        .novacapfoto{margin-top: -36px;}
+        .exp1{padding-top: 27px;}
 
 
         
@@ -195,7 +205,7 @@
         .banexp2{margin-top: 31px;}
         .banexp3{margin-top: 20px;}
         .proban{margin-left: 29px;}
-        .android1{margin-left: 681px;}
+        .android1{margin-left: 692px;}
         .title2{margin-left: 659px;}
         .textport{margin-left: 67px;}
         .move{margin-left: -746px;}
@@ -242,14 +252,15 @@
     @media(max-width:1254px){
         .banexp1{height: 145px;margin-top: 30px;}
         .banexp2{margin-top: -20px;}
-    }
-
-    @media(max-width:1254px){
+        .hob{padding-top: 9px;}
         .banexp1{height: 160px;}
         .banexp2{margin-top: -10px;}
         .banexp3{margin-top: 7px;;height: 150px;}
         .bannert{height: 887px;}
         .formbanner1{margin-top: -552px;}
+        main section aside img.hobfoto{margin-top: -40px;}
+        .hob1{margin-top: -82px;}
+
     }
 
     @media(max-width:1200px){
@@ -264,6 +275,12 @@
         .form1{margin-left: -234px;}
         
     }
+
+    @media(max-width:1242px){
+        .button1{margin-left: 436px;}
+
+    }
+
 
     @media(max-width:1150px){
         .sobre1{max-width: 533px;}
@@ -308,6 +325,7 @@
         .bannert{height: 973px;}
         .form1{max-width: 700px;margin-left: -150px;}
         .button1{margin-left: 320px;}
+        .sobremimban{height: 478px;}
 
     }
     
@@ -332,7 +350,7 @@
         .para2{margin-left: 25px;}
         main article img.android1{margin-left: 561px;}
         main article img.Portfólio1{margin-left: 150px;}
-        .textport{margin-left: -160px;}
+        .textport{margin-left: -90px;}
         .button1{margin-left: 319px;}
 
 
@@ -347,6 +365,11 @@
     @media(max-width:1015px){
         .sobre1{max-width: 438px;}
         .sobre2{margin-left: 402px;}
+        .banner3{height: 697px;}
+        .text{font-size: 15px;}
+        .text1{font-size: 15px;}
+        .text2{font-size: 15px;}
+        .text3{font-size: 15px;}
 
     }
 
@@ -357,16 +380,24 @@
         .form1{margin-left: -199px;}
         .entrecont{margin-left: -350px;}
         main article img.Portfólio1{margin-left: 150px;}
-        .textport{margin-left: -160px;}
+        .textport{margin-left: -126px;}
 
     }
     
+    @media(max-width:950px){
+        .textport{margin-left: -147px;}
+
+    }
+
+
+
     @media(max-width:936px){
         .mainh1{margin-left: 500px;}
         .mainh2{margin-left: 527px;text-decoration: underline #00e6fd;}
         .ling{margin-left: 523px;}
         .project1{margin-left: 528px;padding-top: 3px;}
         .redes1{padding-left: 541px;}
+        .textport{margin-left: -157px;}
 
     }
 
@@ -459,7 +490,7 @@
         main article img.Portfólio1{margin-left: 217px;margin-top: 290px;width: 65%;}
         .move1{margin-left: 106px;margin-top: 359px;}
         .but2{font-size: 25px;}
-        article{height: 2493px;margin-left: 11px;border-radius: 10px;}
+        article{height: 2493px;margin-left: 10px;border-radius: 10px;}
         .formbanner1{margin-top: -552px;margin-left: -18px;}
         .titleform{font-size: 40px;padding-top: 18px;}
         .entrecont{font-size: 40px;margin-left: -349px;}
@@ -635,6 +666,12 @@
     
     }
     
+    @media(max-width:660px){
+        .form1{margin-left: -193px;}
+
+    }
+
+
     @media(max-width:630px){
         .para1{margin-left: 27px;}
         .para2{margin-left: 27px;}
@@ -1090,7 +1127,7 @@ nav a:hover{transform: scale(1.1);}
 .a1{font-family: 'Open Sans', sans-serif;font-size: 20px;color: #042c83;;padding-top: 20px;text-shadow: 0px 0px 1px black;}
 main article p {font-size: 20px;font-weight: bold;}
 main article strong {color: #042c83;;text-decoration: underline;text-shadow: 0px 0px 1px black;}
-.banner4{padding-top: 15px;padding-left: 10px;}
+.banner4{padding-top: 15px;}
 .c1{padding-bottom: 20px;}
 .c2{padding-bottom: 20px;}
 .c3{padding-bottom: 20px;}
@@ -1134,7 +1171,7 @@ article{background-color: #11111162;border-radius: 5px;}
 .novacap1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;margin-left: 130px;}
 .novacap2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;margin-left: 130px;margin-top: -13px;}
 .banexp3{background-color: #0808085e;border-radius: 10px;}
-.hob{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;padding-top: 10px;}
+.hob{color: #ffffff;font-family: 'Open Sans', sans-serif;text-align: center;font-weight: bold;}
 .hobfoto{margin-left: 13px;}
 .hob1{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;}
 .hob2{color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;}
