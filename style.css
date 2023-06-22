@@ -12,6 +12,7 @@
     @media(max-width:1920px){
         .h1header{padding-top: 1px;margin-left: 370px;font-size: 25px;margin-top: -5px;}
         header{max-width: 1920px;height: 36px;}
+        .bannerf{max-width: 1920px;height: 200px;background-color: rgb(0, 0, 0);}
         .nav1{margin-left: 350px;}
         .nav1  > a{padding: 20px;padding-bottom: 4px;}
         .novacapfoto{margin-left: 14px;margin-top: -35px;}
@@ -99,7 +100,14 @@
         .teste6{padding-left: 10px;}
         .aprendiz{text-align: justify;text-align: center;}
         .aprendiz1{text-align: justify;text-align: center;}
-
+        .fotergit{padding: 25px;width: 3%;}
+        .foterlink{padding: 25px;width: 3%;}
+        .foterwpp{padding: 25px;width: 3%;}
+        footer  picture{height: 20%;text-align: center;}
+        .desen{text-align: center;font-size: 13px;}
+        .bannerf{max-width: 1925px;height: 100px;background-color: rgb(0, 0, 0);margin-top: -9px;margin-left: -8px;margin-right: -8px;}
+        .desen{color: #ffffff;font-family:'Open Sans', sans-serif;margin-top: 55px;}
+    
     }
 
     @media(max-width:1669px){
@@ -182,7 +190,7 @@
         li{list-style-type: '\2714';text-decoration: double;}
         .entrecont{margin-left: -293px;padding-top: 40px;font-size: 30px;color: #ffffff;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
         .bannercont{margin-top: 170px;max-width: 1330px;height: 520px;margin-left: 10px;}
-        .bannercont3{height: 1000px;max-width: 1350px;margin-top: -170px;}
+        .bannercont3{height: 575px;max-width: 1350px;margin-top: -170px;}
         article form{font-family:'Open Sans', sans-serif;box-sizing: border-box;font-weight: bold;color: #ffffff;}
         .moveform{margin-top: -400px;}
         form{display: flex;flex-direction: column;gap: .5rem;max-width: 1200px;margin: 0 auto;}
@@ -300,7 +308,7 @@
     @media(max-width:1150px){
         .sobre1{max-width: 533px;}
         .sobre2{margin-left: 502px;}
-        .form1{margin-left:-260px;}
+        .form1{margin-left: -157px;}
 
     }
 
@@ -329,6 +337,14 @@
         .form1{max-width: 868px;}
     }
 
+    @media(max-width:1115px){
+        .bannercont2{height: 520px;}
+        .button1{margin-left: 402px;}
+        .bannerf{max-width: 1115px;height: 100px;background-color: rgb(0, 0, 0);margin-top: -9px;margin-left: -8px;margin-right: -8px;}
+        .desen{color: #ffffff;font-family:'Open Sans', sans-serif;margin-top: 55px;}
+    }
+
+    
     @media(max-width:1102px){
         .formbanner1{margin-top: -551px;}
         .bannert{height: 973px;}
@@ -439,6 +455,11 @@
 
     }
 
+    @media(max-width:895px){
+        .form1{margin-left: -236px;}
+   
+    }
+
     @media(max-width:881px){
         .form1{margin-left: -245px;}
         .button1{margin-left: 318px;text-align: center;}
@@ -458,7 +479,7 @@
     }
     
     @media(max-width:860px){
-        .bannert{margin-top: -216px;margin-left: -18px;height: 1590px;}
+        .bannert{margin-top: -216px;margin-left: -19px;height: 1590px;}
         .banner3{height: 1384px;margin-top: -33px;}
         .sobre1{max-width: 812px;margin-right: 16px;}
         .sobre2{margin-left: -43px;margin-top: 27px;max-width: 818px;height: 700px;}
@@ -505,8 +526,13 @@
         main article img.Portfólio1{margin-left: 217px;margin-top: 290px;width: 65%;}
         .move1{margin-left: 106px;margin-top: 359px;}
         .but2{font-size: 25px;}
+<<<<<<< Updated upstream
         article{height: 2493px;margin-left: 10px;border-radius: 10px;}
         .formbanner1{margin-top: -552px;margin-left: -18px;}
+=======
+        article{height: 2493px;margin-left: 11px;border-radius: 10px;}
+        .formbanner1{margin-top: -552px;margin-left: -19px;}
+>>>>>>> Stashed changes
         .titleform{font-size: 40px;padding-top: 18px;}
         .entrecont{font-size: 40px;margin-left: -349px;}
         .form1{margin-left: -256px;}
@@ -1128,7 +1154,7 @@
     
 
 .h1header{color: #ffffff;;font-family: 'Open Sans', sans-serif;text-decoration: underline #00e6fd;}
-body{margin-top: 1px;}
+body{margin-top: 1px;margin-bottom: 0px;}
 header{background-color: #000000;color: rgb(0, 0, 0);margin: auto;padding-top: 30px;margin-top: -8px;margin-right: -8px;}
 header{position: fixed;top: 0;left: 0;width: 100%;z-index: 999px;box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);}
 .nav1{transition: 0.5s;text-align: center;color: #ffffff;padding-bottom: 13px;height: 34px;font-family: 'Open Sans', sans-serif;}
@@ -1220,3 +1246,5 @@ article img:hover{transform: scale(1.1);}
 .form-control{margin-bottom: 10px;}
 form input{margin-bottom: 15px;}
 .button1{margin-top: 20px;}
+footer picture img{transition: 0.5s;}
+footer picture img:hover{transform: scale(1.1);}
