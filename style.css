@@ -526,13 +526,8 @@
         main article img.Portfólio1{margin-left: 217px;margin-top: 290px;width: 65%;}
         .move1{margin-left: 106px;margin-top: 359px;}
         .but2{font-size: 25px;}
-<<<<<<< Updated upstream
         article{height: 2493px;margin-left: 10px;border-radius: 10px;}
         .formbanner1{margin-top: -552px;margin-left: -18px;}
-=======
-        article{height: 2493px;margin-left: 11px;border-radius: 10px;}
-        .formbanner1{margin-top: -552px;margin-left: -19px;}
->>>>>>> Stashed changes
         .titleform{font-size: 40px;padding-top: 18px;}
         .entrecont{font-size: 40px;margin-left: -349px;}
         .form1{margin-left: -256px;}
@@ -1248,3 +1243,5 @@ form input{margin-bottom: 15px;}
 .button1{margin-top: 20px;}
 footer picture img{transition: 0.5s;}
 footer picture img:hover{transform: scale(1.1);}
+
+.sobre1,.sobre2,.bannert,.formbanner,.bannercont3{visibility: hidden;}
