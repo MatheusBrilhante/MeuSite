@@ -20,3 +20,10 @@ sr.reveal('.sobre2', { duration: 1000 });
 sr.reveal('.bannert', { duration: 1000 });
 sr.reveal('.formbanner', { duration: 1000 });
 sr.reveal('.bannercont3', { duration: 1000 });
+
+const chk = document.getElementById('chk')
+
+chk.addEventListener('change' , () =>  {
+    document.body.classList.toggle('dark')
+
+})
