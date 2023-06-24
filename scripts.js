@@ -21,9 +21,10 @@ sr.reveal('.bannert', { duration: 1000 });
 sr.reveal('.formbanner', { duration: 1000 });
 sr.reveal('.bannercont3', { duration: 1000 });
 
-const chk = document.getElementById('chk')
+const changeThemeBtn = document.querySelector("#change-theme");
 
-chk.addEventListener('change' , () =>  {
-    document.body.classList.toggle('dark')
+changeThemeBtn.addEventListener("change", function(){
+    document.body.classList.toggle("light-mode")
 
 })
+
