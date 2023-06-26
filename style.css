@@ -8,8 +8,8 @@
 :root{--fonte-padrao:'Times New Roman','Serif','Helvetica','cursive';
     --fonte-android:'Android','cursive';
     --fonte-destaque:'Bebas Neue', 'cursive';
-    --body-bg: #030303b4;
-    --body-hed:#030303d5;
+    --body-bg: #030303d7;
+    --body-hed:#030303f1;
     --body-color:#e7e5e5;
     
 }    
@@ -127,7 +127,7 @@
         article li{font-family: 'Open Sans', sans-serif;font-weight: bold;padding-top: 15px;padding-top: 20px;}
         ul{list-style-type: '\2714';margin-top: 10px;margin-top: 50px;margin-left: 10px;margin-left: 240px;}
         .title1{text-align: center;margin-left: 13px;}
-        .entrecont{padding-top: 40px;font-size: 30px;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
+        .entrecont{margin-left: -226px;padding-top: 40px;font-size: 30px;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
         .bannercont2{max-width: 1950px;height: 579px;margin-top: 34px;margin-right: 0px;margin-left: -8px;}
         .bannercont3{margin-top: -25px;max-width: 1330px;height: 520px;margin-left: 320px;border-radius: 5px;}
         .bannert{margin-top: 553px;margin-left: -18px;margin-right: -16px;height: 1040px;}
@@ -142,7 +142,7 @@
         input,select,textarea{width: 100%;padding: 10px;border: 1px solid #ccc;border-radius: 5px;font-size: 1.1rem;background-color:#11111162;}
         button{border: none;border-radius: 5px;cursor: pointer;font-size: 1.1rem;}
         .form1{margin-top: 44px;margin-left: -110px;}
-        .button1{padding-left: 12px;padding-right: -35px;max-width: 150px;margin: auto;margin-left: 586px;}
+        .button1{padding-left: 12px;padding-right: -35px;max-width: 150px;margin: auto;margin-left: 589px;}
         .mainh1{margin-top: -410px;}
         .p1{max-width: 650px;margin-left: 610px;}
         .p2{max-width: 650px;margin-left: 610px;}
@@ -166,6 +166,7 @@
     @media(max-width:1669px){
         .form1{margin-left: -350px;}
         .entrecont{margin-left: -244px;}
+        .title1{margin-left: -53px;}
 
     }
 
@@ -173,6 +174,7 @@
 
     @media(max-width:1635px){
         .textport{margin-left: 128px;}
+        .title2{margin-left: 702px;}
     }
 
     @media(max-width:1563px){
@@ -186,10 +188,12 @@
         .hob{padding-top: 17px;}
         .hob1{padding-top: 3px;}
         .form1{margin-left: -300px;}
-        .entrecont{margin-left: -183px;}
+        .entrecont{margin-left: -241px;}
         .sobremimban{height: 442px;}
         .banner4{padding-left: 46px;}
         .Portfólio1{margin-left: 163px;}
+        .button1{margin-left: 561px;}
+        .title2{margin-left: 772px;}
 
     }
 
@@ -241,7 +245,7 @@
         .formbanner{margin-top: 554px;background-color: #11111162;height: 382px;}
         ul{margin-left: 72px;}
         li{list-style-type: '\2714';text-decoration: double;}
-        .entrecont{margin-left: -293px;padding-top: 40px;font-size: 30px;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
+        .entrecont{margin-left: -310px;margin-left: -293px;padding-top: 40px;font-size: 30px;font-family: 'Open Sans', sans-serif;font-weight: bold;text-decoration: underline #00e6fd;text-align: center;}
         .bannercont{margin-top: 170px;max-width: 1330px;height: 520px;margin-left: 10px;}
         .bannercont3{height: 575px;max-width: 1350px;margin-top: -170px;}
         article form{font-family:'Open Sans', sans-serif;box-sizing: border-box;font-weight: bold;}
@@ -265,7 +269,8 @@
         .text3{font-size: 18px;}
         .novacapfoto{margin-top: -36px;}
         .exp1{padding-top: 27px;}
-
+        .button1{margin-left: 580px;}
+        .title2{margin-left: 662px;}
 
         
     }
@@ -343,13 +348,15 @@
         .textport{margin-left: -51px;}
         .move1{margin-left: 476px;}
         .form1{margin-left: -234px;}
-        
+        .button1{margin-left: 480px;}
+        .entrecont{margin-left: -315px;}
     }
 
     @media(max-width:1242px){
         .button1{margin-left: 436px;}
 
     }
+
 
     @media(max-width:1189px){
         main section aside img.hobfoto{margin-top: -47px;}
@@ -361,7 +368,8 @@
     @media(max-width:1150px){
         .sobre1{max-width: 533px;}
         .sobre2{margin-left: 502px;}
-        .form1{margin-left: -157px;}
+        .form1{margin-left: -209px;max-width: 900px;}
+        .button1{margin-left: 427px;}
 
     }
 
@@ -374,17 +382,18 @@
         .para2{max-width: 450px;margin-left: 71px;}
         .move{margin-left: -451px;}
         main article img.android1{margin-left: 616px;}
-        .title2{margin-left: 460px;}
+        .title2{margin-left: 507px;}
         .p1{max-width: 450px;}
         .p2{max-width: 450px;}
         .p3{max-width: 450px;}
         .bannert{height: 973px;}
         .formbanner1{margin-top: -551px;}
         article{height: 1875px;}
-        .textport{margin-left: -77px;}
+        .textport{margin-left: -32px;}
         .but2{margin-left: 13px;}
-        .move1{margin-left: 432px;}
+        .move1{margin-left: 496px;}
         .form1{margin-left: -200px;}
+        .button1{margin-left: 407px;}
     }
     @media(max-width:1130px){
         .form1{max-width: 868px;}
@@ -397,6 +406,11 @@
         .desen{font-family:'Open Sans', sans-serif;margin-top: 55px;}
     }
 
+    @media(max-width:1110px){
+        .entrecont{margin-left: -309px;}
+        .button1{margin-left: 309px;}
+        .form1{margin-left: -186px;}
+    }
     
     @media(max-width:1102px){
         .formbanner1{margin-top: -551px;}
@@ -462,9 +476,12 @@
         .textport{margin-left: -129px;}
         .move1{margin-left: 432px;}
         .form1{margin-left: -199px;}
-        .entrecont{margin-left: -350px;}
+        .entrecont{margin-left: -315px;}
         main article img.Portfólio1{margin-left: 150px;}
         .textport{margin-left: -126px;}
+        .title2{margin-left: 428px;}
+        .button1{margin-left: 339px;}
+        
 
     }
     
@@ -564,7 +581,7 @@
         .aprendiz{font-size: 20px;margin-top: 10px;}
         .aprendiz1{font-size: 15px;}
         .pro2{font-size: 40px;margin-top: 2px;}
-        .title1{margin-left: 37px;font-size: 30px;margin-top: -44px;}
+        .title1{margin-left: 46px;font-size: 30px;margin-top: -44px;}
         .para1{font-size: 20px;max-width: 700px;margin-top: -448px;margin-left: 25px;}
         .para2{font-size: 20px;margin-left: 25px;max-width: 700px;}
         main article img.android1{margin-left: 115px;margin-top: 240px;width: 68%;}
@@ -579,12 +596,16 @@
         main article img.Portfólio1{margin-left: 217px;margin-top: 290px;width: 65%;}
         .move1{margin-left: 106px;margin-top: 359px;}
         .but2{font-size: 25px;}
-        article{height: 2493px;margin-left: 10px;border-radius: 10px;}
+        article{height: 2493px;margin-left: 6px;border-radius: 10px;}
         .formbanner1{margin-top: -552px;margin-left: -18px;}
         .titleform{font-size: 40px;padding-top: 18px;}
-        .entrecont{font-size: 40px;margin-left: -349px;}
+        .entrecont{font-size: 40px;margin-left: -300px;}
+        .button1{margin-left: 329px;}
         .form1{margin-left: -256px;}
         .formbanner{margin-right: 16px;}
+        .fotergit{width: 3%;}
+        .foterlink{width: 3%;}
+        .foterwpp{width: 3%;}
     }
 
     @media(max-width:857px){
@@ -711,13 +732,16 @@
         article{height: 2542px;}
         .textport{margin-top: -590px;}
         .move1{margin-top: 330px;}
+        .button1{margin-left: 181px;}
+        .entrecont{margin-left: -293px;}
         main article img.Portfólio1{margin-top: 326px;}
         
     }
     
     @media(max-width:721px){
         .form1{max-width: 400px;margin-left: -173px;}
-        .button1{margin-left: 152px;}
+        .move{margin-left: -59px;}
+        .move1{margin-left: 71px;}
     
     }
 
@@ -820,12 +844,15 @@
     }
     @media(max-width:586px){
         .formbanner{height: 430px;}
+        .button1{margin-left: 165px;}
         article{height: 2410px;}
     }
     
     @media(max-width:573px){
         .nav1{margin-left: 130px;}
         .fotoperfil{margin-left: 15px;}
+        main article img.android1{margin-left: 70px;}
+        
 
     }
 
@@ -833,6 +860,7 @@
         main img.foto1{margin-left: 76px;}
         .form1{margin-left: -253px;}
         .bannert{height: 1437px;}
+        .button1{margin-left: 179px;}
         article{height: 2390px;}
     }
 
@@ -853,6 +881,7 @@
         .but2{margin-left: 4px;}
         article{height: 2398px;}
         .form1{margin-left: -244px;max-width: 350px;}
+        .button1{margin-left: 156px;}
     }
 
     @media(max-width:515px){
@@ -864,6 +893,10 @@
     @media(max-width:514px){
         .h1header{margin-left: 3px;}
         .nav1{margin-left: 112px}
+        .fotergit{width: 3%;}
+        .foterlink{width: 3%;}
+        .foterwpp{width: 3%;}
+
     }
 
 
@@ -1165,7 +1198,7 @@
         .novacapfoto{margin-top: 38px;}
         .novacap1{text-align: left;margin-top: -120px;}
         .novacap2{text-align: left;}
-        .banner3{height: 1829px;}
+        .banner3{height: 1838px;}
         .tsefoto{padding-top: 130px;}
         .exp1{margin-top: -201px;margin-left: -1px;}
         .aprendiz{margin-top: 43px;text-align: left;}
@@ -1252,7 +1285,7 @@ button:hover{transform: scale(1.1);}
 .sobremimh1{text-decoration: underline #00e6fd;font-family: 'Open Sans', sans-serif;text-align: center;}
 .sobre2{background-color: #11111162;border-radius: 10px;margin-right: 15px;}
 .banner4{font-family: 'Open Sans', sans-serif;text-align: center;text-decoration: underline #00e6fd;font-weight: bold;padding-top: 38px;}
-article{border-radius: 5px;background-color: #11111162;}
+article{border-radius: 10px;background-color: #11111162;}
 .pro1{font-family: 'Open Sans', sans-serif;font-size: 30px;padding-top: 25px;text-align: center;}
 .text{font-weight: bold;text-align: justify;padding: 15px;text-indent: 30px;}
 .text1{font-weight: bold;text-align: justify;padding: 15px;text-indent: 30px;margin-top: -25px;}
