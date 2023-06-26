@@ -21,10 +21,9 @@ sr.reveal('.bannert', { duration: 1000 });
 sr.reveal('.formbanner', { duration: 1000 });
 sr.reveal('.bannercont3', { duration: 1000 });
 
-const changeThemeBtn = document.querySelector("#change-theme");
+const $html = document.querySelector('html')
+const $checkbox = document.querySelector('#switch')
 
-changeThemeBtn.addEventListener("change", function(){
-    document.body.classList.toggle("light-mode")
-
+$checkbox.addEventListener('change' , function(){
+    $html.classList.toggle('light-mode')
 })
-
