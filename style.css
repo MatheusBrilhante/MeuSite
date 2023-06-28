@@ -208,6 +208,7 @@
         .desen{text-align: center;font-size: 13px;}
         .desen{font-family:'Open Sans', sans-serif;margin-top: 55px;}
         .movelight{margin-right: 10px;margin-top: 6px;}
+        }
 
 
         .checkbox{
@@ -253,8 +254,6 @@
             color: #ec7f02;
         }
     
-    }
-
     @media(max-width:1669px){
         .form1{margin-left: -350px;}
         .entrecont{margin-left: -228px;}
@@ -262,8 +261,6 @@
         .titleform{margin-left: 28px;}    
 
     }
-
-
 
     @media(max-width:1635px){
         .textport{margin-left: 128px;}
@@ -289,7 +286,6 @@
         .title2{margin-left: 772px;}
 
     }
-
 
     @media(max-width:1451px){
         .sobre1{max-width: 710px;height: 568px;}
@@ -419,7 +415,7 @@
     @media(max-width:1280px){
         .pro2{margin-left: 24px;}
         .titleform{margin-left: 6px;}
-        .entrecont{margin-left: -315px;}
+        .entrecont{margin-left: -325px;}
     
     }
     
@@ -653,6 +649,7 @@
         .button{margin-left: 323px;}
         .entrecont{margin-left: -333px;}
         .titleform{margin-left: 0px;}
+        .button1{margin-left: 323px;}
 
     }
 
@@ -782,8 +779,12 @@
         .entrecont{margin-left: -297px;}
     }
 
+    @media(max-width:834px){
+        .entrecont{margin-left: -318px;}
+    }
+
     @media(max-width:820px){
-        .button1{margin-left: 272px;}
+        .button1{margin-left: 314px;}
         .entrecont{margin-left: -337px;}
         .title2{margin-left: 144px;}
         .titleform{margin-left: 16px;}
