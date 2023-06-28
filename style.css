@@ -259,6 +259,7 @@
         .form1{margin-left: -350px;}
         .entrecont{margin-left: -228px;}
         .title1{margin-left: -53px;}
+        .titleform{margin-left: 28px;}    
 
     }
 
@@ -365,6 +366,7 @@
         .button1{margin-left: 580px;}
         .title2{margin-left: 662px;}
         .movelight{margin-right: 10px;}
+        .titleform{margin-left: 39px;}
         
     }
     
@@ -412,9 +414,14 @@
         .formbanner1{margin-top: -552px;}
         article{height: 1815px;}
 
-
-
     }
+
+    @media(max-width:1280px){
+        .pro2{margin-left: 24px;}
+        .titleform{margin-left: 6px;}
+        .entrecont{margin-left: -298px;}
+    }
+    
 
 
     @media(max-width:1254px){
@@ -531,7 +538,10 @@
     }
 
     @media(max-width:1046px){
-        .bannert{margin-top: -215px;}
+        .bannert{margin-top: -245px;}
+        .form1{margin-left: -165px;}
+        .entrecont{margin-left: -319px;}
+        .titleform{margin-left: 22px;}
         .banner3{height: 672px;}
         .sobre2{height: 653px;margin-top: -681px;}
         .sobre1{height: 655px;}
@@ -567,6 +577,13 @@
         .nav1{margin-left: 311px;}
 
     }
+
+    @media(max-width:1000px){
+        .button1{margin-left: 310px;}
+        .titleform{margin-left: 34px;}
+        .bannercont{margin-left: 26px;}
+    }
+
     @media(max-width:998px){
        .h1header{margin-left: 15px;} 
        .nav1{margin-left: 300px;}
@@ -577,7 +594,7 @@
         .textport{margin-left: -129px;}
         .move1{margin-left: 432px;}
         .form1{margin-left: -199px;}
-        .entrecont{margin-left: -315px;}
+        .entrecont{margin-left: -299px;}
         main article img.Portfólio1{margin-left: 150px;}
         .textport{margin-left: -126px;}
         .title2{margin-left: 428px;}
@@ -631,6 +648,12 @@
     @media(max-width:895px){
         .form1{margin-left: -236px;}
    
+    }
+
+    @media(max-width:881px){
+        .button1{margin-left: 323px;}
+        .entrecont{margin-left: -319px;}
+
     }
 
     @media(max-width:881px){
@@ -703,7 +726,7 @@
         .formbanner1{margin-top: -552px;margin-left: -18px;}
         .titleform{font-size: 40px;padding-top: 18px;}
         .entrecont{font-size: 40px;margin-left: -300px;}
-        .button1{margin-left: 329px;}
+        .button1{margin-left: 337px;}
         .form1{margin-left: -256px;}
         .formbanner{margin-right: 16px;}
         .fotergit{width: 5%;}
@@ -747,6 +770,19 @@
         .title2{margin-left: 151px;}
     }
 
+    @media(max-width:836px){
+        .sobremimh1{margin-left: 23px;}
+        .pro2{margin-left: 11px;}
+        .entrecont{margin-left: -297px;}
+    }
+
+    @media(max-width:820px){
+        .button1{margin-left: 314px;}
+        .entrecont{margin-left: -322px;}
+        .title2{margin-left: 144px;}
+    }
+
+
     @media(max-width:815px){
         .title1{margin-left: 26px;}
         .para1{max-width: 600px;text-align: center;margin-left: 60px;}
@@ -767,6 +803,13 @@
 
 
     }
+
+    @media(max-width:800px){
+        .button1{margin-left: 276px;}
+        .entrecont{margin-left: -297px;}
+        .titleform{margin-left: 68px;}
+    }
+
     
     @media(max-width:791px){
         .redes1{padding-left: 418px;}
@@ -795,7 +838,6 @@
         .para2{margin-left: 45px;}
         main article img.android1{margin-left: 100px;}
         .pro2{margin-left: 10px;}
-        .textport{margin-left: 10px;}
         .form1{margin-left: -245px;}
         .button1{margin-left: 277px;}
         .entrecont{margin-left: -287px;}
